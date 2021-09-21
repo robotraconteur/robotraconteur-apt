@@ -1,0 +1,5 @@
+Component: main
+Origin: robotraconteur.github.io/robotraconteur-apt/debian
+Label: robotraconteur.github.io/robotraconteur-apt/debian
+Architecture: amd64
+Description: Robot Raconteur project apt repository
