@@ -1,0 +1,19 @@
+Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
+Label: robotraconteur.github.io/robotraconteur-apt/raspbian
+Codename: buster
+Date: Tue, 21 Sep 2021 03:52:19 UTC
+Architectures: armhf
+Components: main
+Description: Robot Raconteur project apt repository for raspbian
+MD5Sum:
+ 85bf4dd44d03538066403a6108c04ad3 6760 main/binary-armhf/Packages
+ 41af5e8fbb428b0772384ccc34a3d116 1707 main/binary-armhf/Packages.gz
+ 66bdb184b7ebe1d5ad3bf521f7befe98 222 main/binary-armhf/Release
+SHA1:
+ a3612af5b8295c6fd5796ef3dd73307a11a4b58c 6760 main/binary-armhf/Packages
+ 7b4c5ecd6a6062e8bbf673ffb8f2963b78eea090 1707 main/binary-armhf/Packages.gz
+ eeef757a7f50ec1f36061b214ad3384b67411ff4 222 main/binary-armhf/Release
+SHA256:
+ 7927acfac46ee3d3e2876a54f4914c2789ec4e4399391e097b9012ec077b6074 6760 main/binary-armhf/Packages
+ b8e8e85a5f11c02e31de53c107886a80b72b1c6c35c046fa59557b41c5b23283 1707 main/binary-armhf/Packages.gz
+ 9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release
