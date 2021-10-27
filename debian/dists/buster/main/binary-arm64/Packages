@@ -16,24 +16,6 @@ MD5sum: 8c42528d94e63351aa5c6687360487f2
 Description: Robot Raconteur native library for use
  with Nuget package
 
-Package: librobotraconteur-net-native-dbgsym
-Source: robotraconteur
-Version: 0.15.2-1~buster
-Auto-Built-Package: debug-symbols
-Architecture: arm64
-Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 75883
-Depends: librobotraconteur-net-native (= 0.15.2-1~buster)
-Priority: optional
-Section: contrib/debug
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native-dbgsym_0.15.2-1~buster_arm64.deb
-Size: 71535132
-SHA256: c5d8649f274ea89cedcd2a0cc060583a49e526c8d220e9ffbfc7498294073870
-SHA1: 6ef560c9230694691354702c3f0b4213f7c63154
-MD5sum: 4a54daab2b69a5713221a8ff54fa9454
-Description: debug symbols for librobotraconteur-net-native
-Build-Ids: 84cc12726d9518ae40c00054033e9d03129289cd
-
 Package: python-robotraconteur
 Source: robotraconteur
 Version: 0.15.2-1~buster
@@ -51,24 +33,6 @@ SHA1: 505a1fc38054ace6d76d883cbc4c59d7e5ba78f9
 MD5sum: f022073171f4df3e3d7f03231dc0069e
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 2.7
-
-Package: python-robotraconteur-dbgsym
-Source: robotraconteur
-Version: 0.15.2-1~buster
-Auto-Built-Package: debug-symbols
-Architecture: arm64
-Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 73273
-Depends: python-robotraconteur (= 0.15.2-1~buster)
-Priority: optional
-Section: contrib/debug
-Filename: pool/main/r/robotraconteur/python-robotraconteur-dbgsym_0.15.2-1~buster_arm64.deb
-Size: 69414508
-SHA256: aa3d7d401e6629050e1a46b97116b8a3ba63c771bfe7bc7eaa2102ff9747bc3d
-SHA1: 22f4853bf02bec9dca1e66240c587e4b3f295b62
-MD5sum: bf22744bd853675c16bd604f29ee28ac
-Description: debug symbols for python-robotraconteur
-Build-Ids: 37abd77855a5e7efaa8a4ba9cee1b50b0f7e9815
 
 Package: python3-robotraconteur
 Source: robotraconteur
@@ -88,24 +52,6 @@ MD5sum: 4e7caf3ce63ffcc5effa7dff2cfd2e16
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
-Package: python3-robotraconteur-dbgsym
-Source: robotraconteur
-Version: 0.15.2-1~buster
-Auto-Built-Package: debug-symbols
-Architecture: arm64
-Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 73321
-Depends: python3-robotraconteur (= 0.15.2-1~buster)
-Priority: optional
-Section: contrib/debug
-Filename: pool/main/r/robotraconteur/python3-robotraconteur-dbgsym_0.15.2-1~buster_arm64.deb
-Size: 69462936
-SHA256: e8a034bdb8f7bc994471a5317b7908c866649275b524697beaecfeb67519f4ac
-SHA1: e275b6f8eda743db2668fe8db9d9ac2cede3f68a
-MD5sum: 7d909c8c0062038bcc9883a0bcd7220a
-Description: debug symbols for python3-robotraconteur
-Build-Ids: fa2d37ae7ca02a0845fe72488558dff3e340c2c7
-
 Package: robotraconteur-dev
 Source: robotraconteur
 Version: 0.15.2-1~buster
@@ -124,22 +70,4 @@ MD5sum: 3b6399dbd736ae0533b48c05d2299c7d
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
-
-Package: robotraconteur-dev-dbgsym
-Source: robotraconteur
-Version: 0.15.2-1~buster
-Auto-Built-Package: debug-symbols
-Architecture: arm64
-Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 54685
-Depends: robotraconteur-dev (= 0.15.2-1~buster)
-Priority: optional
-Section: contrib/debug
-Filename: pool/main/r/robotraconteur/robotraconteur-dev-dbgsym_0.15.2-1~buster_arm64.deb
-Size: 52609360
-SHA256: 3cd777752b7ddd2639b6790b43712ea83aa7726d551f130c69aa3ba9e6274b60
-SHA1: 8199bbd6c20bf88d357e7e86eeeb66c8ffc69142
-MD5sum: 44b6d786f6ea45ad15fc0aae574a5196
-Description: debug symbols for robotraconteur-dev
-Build-Ids: 0f68420977870648c4fe14e621031b6dea74a675
 
