@@ -5,3 +5,11 @@ Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
 SignWith: B6A79A17C9CB1AA5CFB3E528EED17DE81DDC9502
+
+Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
+Label: robotraconteur.github.io/robotraconteur-apt/raspbian
+Codename: bullseye
+Architectures: armhf
+Components: main
+Description: Robot Raconteur project apt repository for raspbian
+SignWith: B6A79A17C9CB1AA5CFB3E528EED17DE81DDC9502
