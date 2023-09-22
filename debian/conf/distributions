@@ -4,4 +4,13 @@ Codename: buster
 Architectures: amd64 armhf arm64
 Components: main
 Description: Robot Raconteur project apt repository
-SignWith: B6A79A17C9CB1AA5CFB3E528EED17DE81DDC9502
+SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+
+Origin: robotraconteur.github.io/robotraconteur-apt/debian
+Label: robotraconteur.github.io/robotraconteur-apt/debian
+Codename: bullseye
+Architectures: amd64 armhf arm64
+Components: main
+Description: Robot Raconteur project apt repository
+SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+
