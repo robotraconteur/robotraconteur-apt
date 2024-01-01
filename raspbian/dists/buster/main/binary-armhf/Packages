@@ -17,73 +17,73 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 0.18.0-1~buster
+Version: 1.0.0-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 14231
+Installed-Size: 14729
 Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-program-options1.67.0, libboost-random1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4), libbluetooth3, libdbus-1-3, libusb-1.0-0
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_0.18.0-1~buster_armhf.deb
-Size: 2614948
-SHA256: 2b60b1a09d4010d8b5f6f9c8d80efe136ae8ee110857012f855613c26ffe222c
-SHA1: 8ad4e255d9c8b04815d9878e4cae3c2d32638efd
-MD5sum: eec893e04a472735fc2c32c776823016
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.0.0-1~buster_armhf.deb
+Size: 2647404
+SHA256: 6c1d8b1856b049b297ab635a65e899209fdd516998841713d7fb8d6bda0a3ab7
+SHA1: 5711a644cf2a794662cefbae221fd68f0b01f824
+MD5sum: 3e8dfce5d378923ef895806b0489b882
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python-robotraconteur
 Source: robotraconteur
-Version: 0.18.0-1~buster
+Version: 1.0.0-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 15847
+Installed-Size: 16338
 Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-program-options1.67.0, libboost-random1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4), libbluetooth3, libdbus-1-3, libusb-1.0-0, python-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python-robotraconteur_0.18.0-1~buster_armhf.deb
-Size: 2805284
-SHA256: 201436453b57d9b1523fed65988f74676ded921360f0ae965f78a4df7a8ff8ef
-SHA1: 4d5c34870448be831fe8f10c4a7ff6a150cdc1bb
-MD5sum: d07ac1198332424b57519852721ddbed
+Filename: pool/main/r/robotraconteur/python-robotraconteur_1.0.0-1~buster_armhf.deb
+Size: 2841096
+SHA256: ba30d5d48b99f293d34c0683a178c7d875edc7cc35880070385f331ff5b0b7dd
+SHA1: 091d91d0945b14858eaaf37e130996e0a41c07a3
+MD5sum: 6120943a6cd030d7d3edae89b85245da
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 2.7
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 0.18.0-1~buster
+Version: 1.0.0-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 15847
+Installed-Size: 16338
 Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-program-options1.67.0, libboost-random1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_0.18.0-1~buster_armhf.deb
-Size: 2804356
-SHA256: c06a9d2910eeac063db1291cfc8aebaa3f03bb03bf42733c411e1999b92f9054
-SHA1: 75b66c6c2770c02632c3b09ab1c16adcef6a46ad
-MD5sum: e23498b42b0bb9d49272fd6071b3458c
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.0.0-1~buster_armhf.deb
+Size: 2847664
+SHA256: 1a5da49346300444aedfdae9aa5f8f1cd2946396dd1c29ee8bbeced4e4fec63f
+SHA1: 5408c51ab9df77965179c27f4cf6cfff189ae244
+MD5sum: c142178d84805299b5d2eeebbb96194a
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 0.18.0-1~buster
+Version: 1.0.0-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 51612
+Installed-Size: 53958
 Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-program-options1.67.0, libboost-random1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4), libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_0.18.0-1~buster_armhf.deb
-Size: 5696864
-SHA256: 594541c7b0337888d367ef8d6d2d75310b9b4cae0e07040b8065cc2b80775184
-SHA1: 179406046ed26030575733dfc14bea85593e966d
-MD5sum: 02be384537b010057768a7ae06732fc6
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.0.0-1~buster_armhf.deb
+Size: 5847168
+SHA256: 2a6a8b899387c90e0e6a94e53d90aa834fb97e5b1f985b965d81c70ca8469b46
+SHA1: 53af65ec58975d58bac42f546899c6e6fd39f67b
+MD5sum: a8e3c8f553f59b381db86bd5dccc2acd
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
