@@ -14,3 +14,10 @@ Components: main
 Description: Robot Raconteur project apt repository
 SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
 
+Origin: robotraconteur.github.io/robotraconteur-apt/debian
+Label: robotraconteur.github.io/robotraconteur-apt/debian
+Codename: bookworm
+Architectures: amd64 armhf arm64
+Components: main
+Description: Robot Raconteur project apt repository
+SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD

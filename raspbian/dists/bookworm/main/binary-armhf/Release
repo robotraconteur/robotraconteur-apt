@@ -1,0 +1,5 @@
+Component: main
+Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
+Label: robotraconteur.github.io/robotraconteur-apt/raspbian
+Architecture: armhf
+Description: Robot Raconteur project apt repository for raspbian
