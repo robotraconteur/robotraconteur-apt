@@ -1,3 +1,20 @@
+Package: librobotraconteur-companion-dev
+Source: robotraconteur-companion
+Version: 0.3.1-3~bullseye
+Architecture: armhf
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 77182
+Depends: libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev, libyaml-cpp-dev, libeigen3-dev
+Homepage: http://robotraconteur.com
+Priority: optional
+Section: contrib/libs
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.3.1-3~bullseye_armhf.deb
+Size: 5125140
+SHA256: cf92ee52fbf564d135cedbdf2c08ee6d9bf66285d520ca40306dbb29b9cab5ee
+SHA1: 64be589638ade70c43fb13a801c56e17c8ab00b0
+MD5sum: d14bec2fdb65726e495b814ab1ccae4f
+Description: Robot Raconteur companion library
+
 Package: librobotraconteur-net-native
 Source: robotraconteur
 Version: 1.0.0-1~bullseye
