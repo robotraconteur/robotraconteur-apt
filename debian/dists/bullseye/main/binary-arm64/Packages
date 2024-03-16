@@ -17,7 +17,7 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.1.0-3~bullseye
+Version: 1.1.1-1~bullseye
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 16176
@@ -25,47 +25,47 @@ Depends: libboost-chrono1.74.0 (>= 1.74.0), libboost-filesystem1.74.0 (>= 1.74.0
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.1.0-3~bullseye_arm64.deb
-Size: 2874116
-SHA256: eb578855b0a05a65b6eb21fab1c4bc998778874557a8ea82268b6cc4c90b9465
-SHA1: 65a20da82868ab675f053370a566e3c6c3977523
-MD5sum: 878ffb8242b75fbf1807b948dd4397a3
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.1.1-1~bullseye_arm64.deb
+Size: 2878268
+SHA256: 6b36128624016cd6a3ef1b4c43891b3c0c5d20aff400c9b9cef129811519dd37
+SHA1: 36a22fd7821a734710a87f9226c54ebad53e3916
+MD5sum: cf2f94ad68ee5bd9aa8a9ad2718c6e97
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.1.0-3~bullseye
+Version: 1.1.1-1~bullseye
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 18852
+Installed-Size: 18804
 Depends: libboost-chrono1.74.0 (>= 1.74.0), libboost-filesystem1.74.0 (>= 1.74.0), libboost-program-options1.74.0 (>= 1.74.0), libboost-random1.74.0 (>= 1.74.0), libboost-regex1.74.0-icu67, libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.25), libgcc-s1 (>= 3.0), libssl1.1 (>= 1.1.0), libstdc++6 (>= 9), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.1.0-3~bullseye_arm64.deb
-Size: 3213844
-SHA256: f9f277b98e26783b6e8885be504ada60e972c8a1b41d1183e10915f327633aaf
-SHA1: a309cd5c8c9f479a42e1f839197ab3ea48caa055
-MD5sum: ad344095051d3b2102e761864c4ed7c6
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.1.1-1~bullseye_arm64.deb
+Size: 3210396
+SHA256: b6f797dca043a818bee098cc00463627a8b5036201bb21f6057a2bd30c29583e
+SHA1: 774398a1eca327db0e9a117dec9c4867236bd04e
+MD5sum: 41d14f3f034218bafacb1561132818e4
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 1.1.0-3~bullseye
+Version: 1.1.1-1~bullseye
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 58824
+Installed-Size: 58837
 Depends: libboost-chrono1.74.0 (>= 1.74.0), libboost-filesystem1.74.0 (>= 1.74.0), libboost-program-options1.74.0 (>= 1.74.0), libboost-random1.74.0 (>= 1.74.0), libboost-regex1.74.0-icu67, libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.25), libgcc-s1 (>= 3.0), libssl1.1 (>= 1.1.0), libstdc++6 (>= 9), libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.1.0-3~bullseye_arm64.deb
-Size: 5780776
-SHA256: 7a14b7079f750e9968f32038438c8fb9655b643ea1cc2a29445d65c6af1d5c42
-SHA1: a9c846ad906d4f77bb4de0972076ba353a2bb5b4
-MD5sum: 4e74b7d444b2b3f4cde5e1231bc0e356
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.1.1-1~bullseye_arm64.deb
+Size: 5783440
+SHA256: f3fedcf652fb7f3a9ec25e83b652a8c7ff8773850c9f864d063c3e676ac7dbee
+SHA1: 1765931b7a2d48097b895090b8fae40acafbe2d7
+MD5sum: 59a90a10c2b19937c46c0bd996cea2ed
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
