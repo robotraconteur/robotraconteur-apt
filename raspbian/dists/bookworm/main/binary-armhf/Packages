@@ -17,55 +17,55 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.1.1-1~bookworm
+Version: 1.2.0-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 15108
+Installed-Size: 15456
 Depends: libatomic1 (>= 4.8), libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.1.1-1~bookworm_armhf.deb
-Size: 2796244
-SHA256: 577155a9282ecc30b59bc1bf129c1ac9cc04f63b5c9c34f4f9b2958f11b39f2e
-SHA1: 989bad340d79dbf634cbbda098f6c5aa7823236b
-MD5sum: 0179af57c67747069ba2e38dd2d431c6
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.0-1~bookworm_armhf.deb
+Size: 2874348
+SHA256: b187b10d6b51807d499af83d2a6aef4e96e8342eeb2640e916d1a1197ed5fa9a
+SHA1: 5b80befb42a2fd959e391fe8396af4b30c2ed98e
+MD5sum: 9af2758f63d9e9b2189960ff0f02dbcc
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.1.1-1~bookworm
+Version: 1.2.0-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 17605
+Installed-Size: 18053
 Depends: libatomic1 (>= 4.8), libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.1.1-1~bookworm_armhf.deb
-Size: 3063520
-SHA256: 93fabbeb40a83c46a9b08f1a6c00c70e06435b814de3a847b50b73d55e26689b
-SHA1: 043360f562bcb27e879735745fcfae8987a70e13
-MD5sum: be1260e7e771bc5ca0fb3278db1eaa1c
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.0-1~bookworm_armhf.deb
+Size: 3148648
+SHA256: 5a206fa2347adb0b6155cf6367c49c3dc4c932484beb5f48bef43eb3119aa39b
+SHA1: eab04402315e4e0470fbe7be9b32f68a4f903b35
+MD5sum: ac9d83bc6dbc033f29eeb4753278c9b4
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 1.1.1-1~bookworm
+Version: 1.2.0-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 56028
+Installed-Size: 56637
 Depends: libatomic1 (>= 4.8), libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.1.1-1~bookworm_armhf.deb
-Size: 5970696
-SHA256: a703b78144ef695255922d58da98d86a063119710e9394f8d3d76fcbdac4ef18
-SHA1: 2232dfe4096276c0efc2b33de1814a21eff819ea
-MD5sum: ca311909440b751d2e5723a8a1548824
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.0-1~bookworm_armhf.deb
+Size: 6045928
+SHA256: edac1231d9b818bcdb502f9ebd794fed14e35efc69a4e01bf3319c0114543388
+SHA1: 30e6cbe06be52b695060068bd60734a470c34b7d
+MD5sum: 36a5eac46b360df4cc0c4eb1a145fa74
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
