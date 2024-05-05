@@ -1,18 +1,18 @@
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
-Version: 0.3.1-3~buster
+Version: 0.3.1-6~buster
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 84355
+Installed-Size: 84529
 Depends: libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev, libyaml-cpp-dev, libeigen3-dev
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.3.1-3~buster_arm64.deb
-Size: 4448776
-SHA256: 6aaaacd9c49d684df627c5137eed9bf6144b397b4c26aa4101aacb352fa94222
-SHA1: 511e57531411d5f4c97282e98f5281fd97553af6
-MD5sum: 124086cb2bdcc1890e15f3c5d584adc5
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.3.1-6~buster_arm64.deb
+Size: 4458948
+SHA256: eb922c870f5dfb47e0f14c19c9fae289f3efbe32e55b5c731bb5946607d105a9
+SHA1: 057b8b7eb4fa162fecc17353f0309bcb3954665f
+MD5sum: 059d075d681ff292b9da074c256ad715
 Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
