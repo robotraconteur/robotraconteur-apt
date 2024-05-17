@@ -1,3 +1,19 @@
+Package: libdrekar-launch-process-cpp-dev
+Source: drekar-launch-process-cpp
+Version: 0.1.0-1~bookworm
+Architecture: armhf
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 34
+Homepage: https://github.com/johnwason/drekar-launch-process-cpp
+Priority: optional
+Section: contrib/libs
+Filename: pool/main/d/drekar-launch-process-cpp/libdrekar-launch-process-cpp-dev_0.1.0-1~bookworm_armhf.deb
+Size: 7072
+SHA256: 9dd6338159d7018320a7b8343e255137a0e139f816abb4e1d58063911245f824
+SHA1: 4050096bce03c461fa1c96dec2314dc15209ad76
+MD5sum: 8bbd3108f5d372d5751c4f7cefb1bfaf
+Description: Drekar Launch Process C++ library
+
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
 Version: 0.3.1-6~bookworm
