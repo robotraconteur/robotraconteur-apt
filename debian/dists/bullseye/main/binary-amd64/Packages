@@ -16,19 +16,19 @@ Description: Drekar Launch Process C++ library
 
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
-Version: 0.3.1-6~bullseye
+Version: 0.4.1-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 81869
+Installed-Size: 86913
 Depends: libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev, libyaml-cpp-dev, libeigen3-dev
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.3.1-6~bullseye_amd64.deb
-Size: 4550404
-SHA256: 1b97c73695e7805f33c8d90c4e2748566220cc8f56d2a0e46d0ab4041602e046
-SHA1: 2c2a7004b0b0640d476c0ea3ad22260a4cd4a112
-MD5sum: 69d2931abc9eb66e75407c9373a3061d
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.1-1~bullseye_amd64.deb
+Size: 4864696
+SHA256: ca6b31f900d806ef5ac165442adf1c0ec2eb9cfce2f6addcaf4325d5a33b90f8
+SHA1: b9e2c1cd1ed87e8ee05a6c08bbc97f13f09da66e
+MD5sum: 15a61e6116365ffeb7969f42d2eab4ae
 Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
