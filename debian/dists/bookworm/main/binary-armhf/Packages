@@ -33,7 +33,7 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.2.1-1~bookworm
+Version: 1.2.2-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 12288
@@ -41,47 +41,47 @@ Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.1-1~bookworm_armhf.deb
-Size: 2961920
-SHA256: bacf142905fcb54c1c743c73e4cdc7baad5f0833c3d7c2bac6f426e077a45f49
-SHA1: f9a0c8eab040d43f01983ae0ff5d67e45b5026f4
-MD5sum: 21dc6f951c9c98cfc51ec39927136976
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.2-1~bookworm_armhf.deb
+Size: 2962136
+SHA256: 2efc276f67af7da0185b26108ee117c8dbc43f41696917cd57caed8d87eb2e94
+SHA1: e18fb1935f4d6a0da99cde9d3e8840b2e52c676c
+MD5sum: cdd4b58ee13de134f368c653070bc44f
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.1-1~bookworm
+Version: 1.2.2-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 14753
+Installed-Size: 14759
 Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.1-1~bookworm_armhf.deb
-Size: 3257940
-SHA256: d49ccdb09be4a78ad267bb32e1faeb694dd1d39098d604af9440ad5523dcf7e1
-SHA1: 1846f6e967039993b0fe2c69de4cb6f3843fb8fb
-MD5sum: 2b9a9512c7fff1296c87f53b187d514c
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.2-1~bookworm_armhf.deb
+Size: 3260380
+SHA256: 9df97c8430e1257dd90c57e654610efa15d01f4fdb1645eadbac0cadad4f4139
+SHA1: 6a57922f9c2f223f6442c6a76bf10dc46535514b
+MD5sum: b5eb2d8d0fc01c7687215a301a5529f8
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 1.2.1-1~bookworm
+Version: 1.2.2-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 52039
+Installed-Size: 48855
 Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, libbluetooth-dev, libboost-all-dev (>= 1.58.0), libdbus-1-dev, libssl-dev (>= 1), libusb-1.0-0-dev (>= 1)
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.1-1~bookworm_armhf.deb
-Size: 6139092
-SHA256: 79065cc62229502f255e06692749bea1ad9e90d57f76db34768a17e8fae8d424
-SHA1: 1ed1203ac40f0f32fdf5eff1edd8a9be21482421
-MD5sum: 585f70e97777e9f80470cf82c63ef864
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.2-1~bookworm_armhf.deb
+Size: 5791024
+SHA256: d5e6528a9c71fa00fea0c0dc978fdad04c6b72bd391c384549ad817ce8687438
+SHA1: 882ae9f31cef0815c2c2a9a98bea76eb17d78958
+MD5sum: 08eb3a6df54025ae674b653b874d48e4
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
