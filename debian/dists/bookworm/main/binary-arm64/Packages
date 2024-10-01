@@ -33,55 +33,55 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.2.2-1~bookworm
+Version: 1.2.3-1~bookworm
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 16447
+Installed-Size: 16639
 Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.2-1~bookworm_arm64.deb
-Size: 2944552
-SHA256: 2c39fae291fd0250a20dcdef88f3a6927577b8500c9acc0548f9ca548ea83b72
-SHA1: 2cac8cc0a8b2bbe6f39a16ebb96702392c09cd01
-MD5sum: 34dea516a1930da20d8fde1b74db8590
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.3-1~bookworm_arm64.deb
+Size: 2972296
+SHA256: 296877e32d83fe3a359eb04891c87f2bcc813bd913033642942dbd657c71dab4
+SHA1: 0c86b51ee8ea6d83f165326cf84070c462bafb2c
+MD5sum: 2f767055c23e87b6dc0fc58ecb63a5f8
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.2-1~bookworm
+Version: 1.2.3-1~bookworm
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 19271
+Installed-Size: 19464
 Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.2-1~bookworm_arm64.deb
-Size: 3305352
-SHA256: 1f2dca9d2192a48315bac453d1af1bfb7500f0d059c003423ac84aa18645d380
-SHA1: 96a14cb645ccdb1f7f4a293ca6f44b5ee64e6279
-MD5sum: b7610b42282bfce8838e47c628c9a48e
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.3-1~bookworm_arm64.deb
+Size: 3336384
+SHA256: 3f61fc7cb00540d539477985a6f71b4215a2156c6ca33d59dcc48464aa826d34
+SHA1: 1d7db64f3258a861da5fbc346117fb05627e51d6
+MD5sum: 2f31b5877d4c4e8988af9ee4f1790026
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 1.2.2-1~bookworm
+Version: 1.2.3-1~bookworm
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 54479
+Installed-Size: 55098
 Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, libbluetooth-dev, libboost-all-dev (>= 1.58.0), libdbus-1-dev, libssl-dev (>= 1), libusb-1.0-0-dev (>= 1)
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.2-1~bookworm_arm64.deb
-Size: 5478072
-SHA256: a0f6c6d5dd2d7dd6381a2b4bb8772235a2740e409232e5b1cd4b88361309bea1
-SHA1: a7605b03739b1446cd086f19f1083522b89ccd34
-MD5sum: f77596f697ba039e10bed9cae001b15d
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.3-1~bookworm_arm64.deb
+Size: 5526652
+SHA256: cdcbb7b288df705e79d2df60522c594d95a9f6f60e4ce8152b99b430607d46be
+SHA1: b2b81cb2ced1a0531c019c7f4ad52c6d7078f2ac
+MD5sum: d09ceaa23700efbef0c47a497a01c4c2
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
