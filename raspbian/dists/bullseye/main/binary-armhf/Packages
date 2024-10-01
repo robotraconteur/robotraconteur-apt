@@ -33,55 +33,55 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.2.2-1~bullseye
+Version: 1.2.3-1~bullseye
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 15489
+Installed-Size: 15594
 Depends: libatomic1 (>= 4.8), libboost-chrono1.74.0 (>= 1.74.0), libboost-filesystem1.74.0 (>= 1.74.0), libboost-program-options1.74.0 (>= 1.74.0), libboost-random1.74.0 (>= 1.74.0), libboost-regex1.74.0-icu67, libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.28), libgcc-s1 (>= 3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 9), libbluetooth3, libdbus-1-3, libusb-1.0-0
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.2-1~bullseye_armhf.deb
-Size: 2855696
-SHA256: db4025cf16bf45d97f16464bf47af859fd98b2f8b9cf85eb32d5a57d890f8a9e
-SHA1: fd2771718c7d9a0bec68bb5841b61f184f0d7693
-MD5sum: 4bea7e221845dcd61777c004554ac6aa
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.3-1~bullseye_armhf.deb
+Size: 2868612
+SHA256: f551e33409c2510800553f5d7bc64c74bf1df207d82a0097390aae49b8251fa7
+SHA1: bfaff751c594b8d9f3175d2fb3f134e5442314bf
+MD5sum: 7e5bbd7f595a965b5083e167d2167f40
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.2-1~bullseye
+Version: 1.2.3-1~bullseye
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 18101
+Installed-Size: 18205
 Depends: libatomic1 (>= 4.8), libboost-chrono1.74.0 (>= 1.74.0), libboost-filesystem1.74.0 (>= 1.74.0), libboost-program-options1.74.0 (>= 1.74.0), libboost-random1.74.0 (>= 1.74.0), libboost-regex1.74.0-icu67, libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.28), libgcc-s1 (>= 3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 9), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.2-1~bullseye_armhf.deb
-Size: 3129192
-SHA256: c67abd853a30a4ce0faaf8595384e6cbd0c9a9efaaeacd94074a05288fd69857
-SHA1: 52393a3649338ea7f28a2d1443b0e3dd3452a3f3
-MD5sum: fda412d1a82405e3a2a6de8f3f46b9c1
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.3-1~bullseye_armhf.deb
+Size: 3140604
+SHA256: dc683dfdaaac2711b0051f0114716028d7e64d8f3f2d4de33a3763ff5affe7b3
+SHA1: 669d5d6612a7a72ed13ba86be7d4eb6dbd5a8813
+MD5sum: d8cbb88ba48cd16f8fb41e2dfce89d39
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 1.2.2-1~bullseye
+Version: 1.2.3-1~bullseye
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 55037
+Installed-Size: 55405
 Depends: libatomic1 (>= 4.8), libboost-chrono1.74.0 (>= 1.74.0), libboost-filesystem1.74.0 (>= 1.74.0), libboost-program-options1.74.0 (>= 1.74.0), libboost-random1.74.0 (>= 1.74.0), libboost-regex1.74.0-icu67, libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.28), libgcc-s1 (>= 3.5), libssl1.1 (>= 1.1.0), libstdc++6 (>= 9), libbluetooth3, libdbus-1-3, libusb-1.0-0, libbluetooth-dev, libboost-all-dev (>= 1.58.0), libdbus-1-dev, libssl-dev (>= 1), libusb-1.0-0-dev (>= 1)
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.2-1~bullseye_armhf.deb
-Size: 5803364
-SHA256: d3b41caad18c953e9131f5f7c9b3ebda052926084cdb38df06e35d4d94bf3148
-SHA1: ec2be90b41b8a472e61bb938628cc5be05748ab5
-MD5sum: 563e918c1b81839900159fd778c33c6e
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.3-1~bullseye_armhf.deb
+Size: 5825988
+SHA256: 61ad25d616bc6503adeedaf129b86669f5e3c48f6af21e644b9f04f51e7ec3a7
+SHA1: c352c535c68ede707d2b4431d2f940f6beb4ed9c
+MD5sum: 1304e395cb0fd82fe00d391ad4048035
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
