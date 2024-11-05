@@ -33,7 +33,7 @@ Description: Robot Raconteur companion library
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.2.3-1~buster
+Version: 1.2.4-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 11970
@@ -41,17 +41,17 @@ Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0,
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.3-1~buster_armhf.deb
-Size: 2843564
-SHA256: c1cfe6fcfaf63afaf5328b31907055cf5ca95ceab35008106ee7d1756911ff5e
-SHA1: 4befdd8d714de824d0321a51b2214c16318213ac
-MD5sum: f8050972a139a1e8cd8b2684a26444b1
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.4-1~buster_armhf.deb
+Size: 2843588
+SHA256: c2cfcb0db510dbeff26d4cdd00a7f995fdfa49ca2212c5cae7bdd311fa4f88e5
+SHA1: c6176df8243aed8e59b657445146208d359e1335
+MD5sum: 1a947ea4f19a79822c6e51c9b2874b2f
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: python-robotraconteur
 Source: robotraconteur
-Version: 1.2.3-1~buster
+Version: 1.2.4-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 13643
@@ -59,17 +59,17 @@ Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0,
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python-robotraconteur_1.2.3-1~buster_armhf.deb
-Size: 3017652
-SHA256: 4fa2acf1178ba2dcede58c2f99ede4d42766cb86d09122a9e5578b8505eee7c1
-SHA1: 5dcf01bcfe9fc717c4dee35363294ef82de8a10c
-MD5sum: f255ab881c279078577d87bd9de33f7d
+Filename: pool/main/r/robotraconteur/python-robotraconteur_1.2.4-1~buster_armhf.deb
+Size: 3018800
+SHA256: ffae9baa212cb8ed65fcf027b00ca63117935d6daef4589f847c9c9a50035c48
+SHA1: 9c6f91409286494a037b3a06b7c21c98c31db2f1
+MD5sum: 5a8709412e83c80b346013e95d0684ba
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 2.7
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.3-1~buster
+Version: 1.2.4-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 13874
@@ -77,17 +77,17 @@ Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0,
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.3-1~buster_armhf.deb
-Size: 3045088
-SHA256: 8cc67b7f417171f59b598d88334c9b0e30e4f6b8eb762a58fa8ae83acc2684de
-SHA1: bb0f7fe426ab23041f358914943b3274c73f4449
-MD5sum: d9bba771a1f5a879f0f59322da7be7fc
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.4-1~buster_armhf.deb
+Size: 3046520
+SHA256: f171f5410a163f276dce955e5739b7d6b122996374deaa401b9064c4bb861c47
+SHA1: 5123ffee8012450d9838e23299a8fbb137d584f3
+MD5sum: 1e3be2f6d66bf15f294416fd7cb2cd65
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteur-dev
 Source: robotraconteur
-Version: 1.2.3-1~buster
+Version: 1.2.4-1~buster
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 47848
@@ -95,11 +95,11 @@ Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0,
 Homepage: http://robotraconteur.com
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.3-1~buster_armhf.deb
-Size: 5714852
-SHA256: 3ba2823c317939a8bb3c170153d29b69ad1a40b5b92e91bb3cae88ebb3d898db
-SHA1: 7f8bd6589471c6074381044b10b2fb91997aa095
-MD5sum: 3bed64bce6afc2989a20df3d57cc8ee4
+Filename: pool/main/r/robotraconteur/robotraconteur-dev_1.2.4-1~buster_armhf.deb
+Size: 5716812
+SHA256: 47db02016a54557975c30ceed1f5c15c6971affa5d52c9323a936d0c1f3db5da
+SHA1: ee31591029e8b140667606e08c2d0f3f024cb758
+MD5sum: ccbb522dcf2dd4809d8442e525b0cd98
 Description: Robot Raconteur static library, header files, and tools
  Robot Raconteur static library, header files, and tools. Use with
  cmake projects.
