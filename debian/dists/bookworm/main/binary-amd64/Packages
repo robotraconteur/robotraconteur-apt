@@ -16,20 +16,42 @@ Description: Drekar Launch Process C++ library
 
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
-Version: 0.4.1-1~bookworm
+Version: 0.4.2-1~bookworm
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 81942
-Depends: libbluetooth3, libdbus-1-3, libusb-1.0-0, libboost-all-dev, libyaml-cpp-dev, libeigen3-dev
-Homepage: http://robotraconteur.com
+Installed-Size: 1613
+Depends: librobotraconteur-companion0.4, librobotraconteur-dev, libboost-all-dev (>= 1.58.0), libyaml-cpp-dev, libeigen3-dev, libopencv-dev
+Homepage: https://github.com/robotraconteur/robotraconteur_companion
+Priority: optional
+Section: contrib/libdevel
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.2-1~bookworm_amd64.deb
+Size: 81640
+SHA256: 24d082ddf4a016d3dc940d537766d9fce9bc1bf224980c114c428fc73a3c5b6c
+SHA1: 29807af1a47460081f063eb091e4284667521941
+MD5sum: b37a4fcbe4d388618097a0914df25b0d
+Description: Companion C++ library for Robot Raconteur
+ .
+ This package provides development files of robotraconteur-companion.
+
+Package: librobotraconteur-companion0.4
+Source: robotraconteur-companion
+Version: 0.4.2-1~bookworm
+Architecture: amd64
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 23615
+Depends: libboost-regex1.74.0-icu72, libc6 (>= 2.32), libgcc-s1 (>= 3.0), librobotraconteurcore1, libstdc++6 (>= 11), libyaml-cpp0.7 (>= 0.7.0)
+Multi-Arch: same
+Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.1-1~bookworm_amd64.deb
-Size: 4776328
-SHA256: d17da41fb75372fdd6a38258867583ba8a368caeb29e74e43f28419c951d5cc8
-SHA1: 74e888142e3e30de09436eda1963a0712ae3cf57
-MD5sum: d278d542b4387406805ac79c45937724
-Description: Robot Raconteur companion library
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.2-1~bookworm_amd64.deb
+Size: 3000256
+SHA256: c8392a68e01b4ec55a8823b441e0c5a0b49d5ea046a1e13ac720b1343b840c90
+SHA1: 24752bc09950f5536da754d778d8cc2d5f6b5d2e
+MD5sum: 4f2dd4620542c09898df8921ecc8eb4b
+Description: Companion C++ library for Robot Raconteur
+ .
+ This package provides run-time library of robotraconteur-companion.
 
 Package: librobotraconteur-dev
 Source: robotraconteur
