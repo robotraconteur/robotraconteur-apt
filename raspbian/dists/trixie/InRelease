@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
+Label: robotraconteur.github.io/robotraconteur-apt/raspbian
+Codename: trixie
+Date: Mon, 25 Aug 2025 01:31:38 UTC
+Architectures: armhf
+Components: main
+Description: Robot Raconteur project apt repository for raspbian
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 66bdb184b7ebe1d5ad3bf521f7befe98 222 main/binary-armhf/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ eeef757a7f50ec1f36061b214ad3384b67411ff4 222 main/binary-armhf/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEQQurqrIVQVKz79XSC4k8f4UREWAFAmirvPsACgkQC4k8f4UR
+EWAUMgwAm4a/uNOLUNUOrQDD8C4jkHN8jxnyT1Z9xi71NLfJti/qx49khNXyHkYc
+W/bEvaI3oXFi+JizJWtt2LArtM2bAl9bOeWk3mcNGTtvISUBbkCFUQiTbycDsH2+
+I98MwkbGPvgiJPYmoXVjMHoErwOTh7Ydaa+98R9+coHz5QEOk0qM79LCjP2ELrHe
+OgtFj3ghlRrfZo+Ki/0n90bk+5bDSeXagselmNKOCKo8lgwEuBjTYwVwOOJczP46
+ksi1F8yr2kniXfv7GySN27dqQHqlYFtQZvtOam/mLLvGvvZo3ahUNCgzJpAEmwWe
+NFkOefhYIduXRWu3Q3XuQpgPAbN0508PfvKlWvJbM1cGByHcqtiYWbPnBcdVj0rO
+xqEw0T1wfNiywhzdMneNSJ1rVHX4liovEDAE/Wot8kfbLKg54Kz9CtXez8Wde8/A
+MWiiEZeeTIjYEGRY1vdGlvkRWPomgTAMwwFarNbDeLi7zADK5PVeZqhFHU9JxPsZ
+mXT5SbqT
+=EEu8
+-----END PGP SIGNATURE-----

@@ -1,7 +1,7 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
 Codename: bookworm
-Date: Mon, 25 Aug 2025 01:13:42 UTC
+Date: Mon, 25 Aug 2025 01:31:34 UTC
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian

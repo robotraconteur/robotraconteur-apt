@@ -4,7 +4,7 @@ Codename: buster
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
-SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+SignWith: 410BABAAB2154152B3EFD5D20B893C7F85111160
 
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
@@ -12,7 +12,7 @@ Codename: bullseye
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
-SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+SignWith: 410BABAAB2154152B3EFD5D20B893C7F85111160
 
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
@@ -20,7 +20,7 @@ Codename: bookworm
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
-SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+SignWith: 410BABAAB2154152B3EFD5D20B893C7F85111160
 
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
@@ -28,4 +28,4 @@ Codename: trixie
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
-SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+SignWith: 410BABAAB2154152B3EFD5D20B893C7F85111160
