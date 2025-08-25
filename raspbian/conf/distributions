@@ -21,3 +21,11 @@ Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
 SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD
+
+Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
+Label: robotraconteur.github.io/robotraconteur-apt/raspbian
+Codename: trixie
+Architectures: armhf
+Components: main
+Description: Robot Raconteur project apt repository for raspbian
+SignWith: 0C868F65A48140DCFE80CCA4CEE2F1966FD382AD

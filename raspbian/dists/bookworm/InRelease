@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
 Codename: bookworm
-Date: Wed, 30 Jul 2025 15:06:38 UTC
+Date: Mon, 25 Aug 2025 01:13:42 UTC
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
 MD5Sum:
- 308258228d29d85d364c7e071b8617f0 6748 main/binary-armhf/Packages
- e84378661dec8fd9d2c2086f6a8632c0 1774 main/binary-armhf/Packages.gz
+ 68f453c975f09fbaa9c029e04d2ed38d 6748 main/binary-armhf/Packages
+ d5efefc457e0e23a0a543f6bb00b69bb 1776 main/binary-armhf/Packages.gz
  66bdb184b7ebe1d5ad3bf521f7befe98 222 main/binary-armhf/Release
 SHA1:
- d2070fbc07030535ca4f726b17b41dd780bf1ec2 6748 main/binary-armhf/Packages
- f6ceb915b0d9527942eec95f334265c5ab8bf57a 1774 main/binary-armhf/Packages.gz
+ d3f64dfaab6fdd5b9f8dadf60c918df5e81ffffd 6748 main/binary-armhf/Packages
+ 3209b8a067650051eff3c9e64bc1692178f6e9a3 1776 main/binary-armhf/Packages.gz
  eeef757a7f50ec1f36061b214ad3384b67411ff4 222 main/binary-armhf/Release
 SHA256:
- d020c9dd2c51fbed903897783c8f22356620b397073a5c819013308e757a82d2 6748 main/binary-armhf/Packages
- ba0bedbf7c809cdd9c5171e834a98e51ed2f4194f1bf56e2f40162e75540fcc4 1774 main/binary-armhf/Packages.gz
+ dcea07d1eb0c6145caa960ae1b78cc1541d1808fbe62e37cd442f5d69153c218 6748 main/binary-armhf/Packages
+ 2016db51e63e90e880987d12c974338b3dfc4ea10c15ab253d8b2c80208f502f 1776 main/binary-armhf/Packages.gz
  9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEDIaPZaSBQNz+gMykzuLxlm/Tgq0FAmiKNP4ACgkQzuLxlm/T
-gq0WTAwAubu3JbR0/4pSGY1eTZrroriuSIYg/VLA8Tk5rEFUXtLbvcNX+w1hFmuG
-mNrOZ+OpXAvf9oFFhuVHIsnTX26999ULrGgjMmUY0/RiOtV86xgKG+iPK+1b7oE4
-jpahfaXIZ6gwPG6Zz0GI7gbQdZscTjngcww2hDYABfMmCs6PTXQrWKGPLTyXghfu
-ySWcBFU2lWwVKy8aONsjvEO04HVuRNQ2z8miE3n4dZYyrGPqV/HJk/mM9v2JBFVQ
-zDbJ5q8BoM/KVqO22sHU1COzwKgC2DFI1eYEZw4zEbNv7mMSB+ddWAUunJ6WtDDm
-tt3XfzoOlJnQImEgf4LCbCrCstE/uhzFvklZUhq7iBLzUAhxtck3qSDCqt5uaL6l
-+6sfISd5NMxntPAGcjCujWHRcOteDsYf4xYae6Jd4ufXuSd/2ZwnSHA95d27Njtk
-uNX1uGu6gzRYSQmSxLy4AzqqH5mrAgNz5bzyZyStcTfMHTywzl0B5TeY+GYhTe0A
-AuEm34nu
-=i8k8
+iQGzBAEBCgAdFiEEDIaPZaSBQNz+gMykzuLxlm/Tgq0FAmiruMYACgkQzuLxlm/T
+gq0HKwv9Exkqm/d0hcuVs6PSvbAaqX05qQ5nvXMTuTgxe9aOHsdQmqDmQJpaB8Uc
+D94GLbMoZyojCVaHMMoJyVcf/bQnXQQYCFDBkEDVSwQC1TkJn1gAIQIYp6RxZz5G
+rzkQcX+f4HrwF+BPpO+mehZatkHGKdbveTsoWFu1IFZaFhUHrcatQECXvkaOfjry
+OPRNUJupy+H02IOiJx5W9UZtChgu/FFoLgP3FWph6rrbCUjnVUpgH5Sw6AKfGY/J
+pA5lIE1O/8f4JpeqwqYmM/RtxZOFBBI3UcEyju1K1Fu+vuWV0PMh0shovLpkqLJB
+tYk95e9f5acWzAhwHKQ8FjoFGgdvqfJF3JxAkYH4ylisqXypKmVO0zztZcIqWRhh
+D8jPYEqGiaH3koNrk7WNM95La9s1Ts+oOs7rdmJ5cCxhjNDGlxsZ+UyNFS2E6cDh
+1Nyqu040V/xDzztKmAT4KZlnB2hGtW38tdTc4rZMPOkLOcvY7o2OsszaWpDREHpe
+0V9sX+l0
+=x6JP
 -----END PGP SIGNATURE-----
