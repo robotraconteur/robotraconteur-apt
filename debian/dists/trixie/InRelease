@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: robotraconteur.github.io/robotraconteur-apt/debian
 Label: robotraconteur.github.io/robotraconteur-apt/debian
 Codename: trixie
-Date: Mon, 25 Aug 2025 01:13:28 UTC
+Date: Mon, 25 Aug 2025 01:31:07 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: Robot Raconteur project apt repository
@@ -40,15 +40,15 @@ SHA256:
  78e9cba17d23579cd3082dec74fb900e7d0409fc29253521a69cb0320627cfe1 205 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEDIaPZaSBQNz+gMykzuLxlm/Tgq0FAmiruLgACgkQzuLxlm/T
-gq3oEAv+MGoY23rSYp/6ydvek8bXokjVgur+i5OSj95uJgWl3OcDH0MaMPueY/9V
-7VhoQuabPlqx/gbivG10bfjOppwx+Eu46K4OKDLReUUzYl1biq5ZIZPzD1IVJ4lO
-eEqV3z451V/vBSKtYwhXiwAVYgVqENpW37lYc6vtdXUFpgpS42HNW8K1ACEv2seO
-GmUuLwCs2EzklXufpU1/eqUztc2CehF4fyeFEHM2dLu+3/af3whnCiBO0DjkOqi+
-H2JaWcEgxS20frKwhTrcW0GCoJ8OwOb85dRIV9Hm3/+LVsIZLxHn18Y/brlVXrUq
-RlqsTV8cc7IWGGUJcFRs56W+Yr/3Vy8HHhZWIPo2bmvflJMb4SfPkghU93uycKN9
-i01bluoT+OAfBgMfuGOx5Ir1pyt0tzl077Z6JkLRvVKxvLnutThbaJawkKMczu3m
-g5/uqZsmY51qpwmmYB5rtF94bQ6LlY3q620jZZWOlraa/EghNfyQhcpM7cmeF7cI
-WcJYVRWh
-=MPyk
+iQGzBAEBCgAdFiEEQQurqrIVQVKz79XSC4k8f4UREWAFAmirvNsACgkQC4k8f4UR
+EWBmEwv/TjZAc7SQF9R11c8gILHwiYPj1F08eDc3sQ65voguvbLRS38JT1w6ai5r
+r3UdjZ2qYiDLebCerRGYqVRZnLEEq7iRGiVx28siStTDtu7ApE3zrvuJeZbGx18v
+rFci1Y2vO/7u4zy4j8wDoNFGnjM6aH/Eixidoa3c3vMNpPhNNvWEHYujP3fqYUhC
+oVxk4idMQbCH2PbMAQHAuP2pxqsslKyyJgLWZlbfk8OeUG0HnEy0PIpprpXihwNA
+8BhEUAjymVPWONeIro/7b83O8lueWnt7tvcPbGH9T6FocQSqyklgqjDu6W/Cq8sq
+szeevDwODPreqn5Ub2nXTb97/iK7borPXly0Kt/Ly0ZOCkZQeSxFVT1+UXeViGD8
+OqEzAiHvYjSVTxWjCvjx/CG+JmnsVqz74bta98IBVGau7nWaSan/Z0FRpqGD1t29
+mQ4dZ0lBXZnsDN3R3bbkZngUTQaTMfNfgCtjfM5MWV5ixZiaS+YVNfozfKrnGX8L
+iL4fW/0l
+=XCEU
 -----END PGP SIGNATURE-----

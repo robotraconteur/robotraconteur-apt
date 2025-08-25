@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: robotraconteur.github.io/robotraconteur-apt/debian
 Label: robotraconteur.github.io/robotraconteur-apt/debian
 Codename: bookworm
-Date: Mon, 25 Aug 2025 01:13:39 UTC
+Date: Mon, 25 Aug 2025 01:30:57 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: Robot Raconteur project apt repository
@@ -40,15 +40,15 @@ SHA256:
  78e9cba17d23579cd3082dec74fb900e7d0409fc29253521a69cb0320627cfe1 205 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEDIaPZaSBQNz+gMykzuLxlm/Tgq0FAmiruMMACgkQzuLxlm/T
-gq3c/wv/XtcUo6uTcMwZOOFqPmTxx9mxI8yznCQEToGYQw2wnvR6wjIX1LXFFHSS
-znn02tFZGbZMcamdiBLUD5KZZlFR4RppjAfBqTvmcCiD8fJqD+WQH8AiyHdd8iid
-a9/H8TaHlbCAjJjbhA37BaFugeCLv0Zg8pGbYQodiB8RRcngKSKPFAcEG2r66x8Y
-GxryqWxMszFxuGCKEdKICrixemNTqnCZyrN4W4YYfRJarvLEg0n6xEhzXC0gSdgk
-xwv9oS2dD2N4dRyJ2aR99HSQVeQyjGRVFfcxrH5+zJ3Pk+4K3d1jKe8gzNVQ2/bV
-Y9bZekAfPCfEEEtO+CQ7Za75M6N3huIsyFUz+4w2mBYAupHFVshACeN9BQTtLifB
-9PiMLrzHFAL+Jc6UJoQirEGPVWFS0OvpZoB64hfi+syF37fC7475BfbH3n/iLZqu
-bBMwJGJKdaPTiUCjM5NAGniBrAUKoane20omYu2RXQsu5ZZZ6ngmy7BVb3+/5WL9
-eo1Qt65+
-=ONm7
+iQGzBAEBCgAdFiEEQQurqrIVQVKz79XSC4k8f4UREWAFAmirvNIACgkQC4k8f4UR
+EWCD3gv/YV/xYzxoR213dQJtSHBU/lpwxuTAcNa8JblKus+bB6FZTiKpG7sK610y
+DJOgKLMrE19Z8W3cjfbeZxaS7jKpJeGPnpsm5IAzA8va0h1N9IhRT7eOCWAd6OFR
++EhRhDB2RxGd2TSGzQ1RVwYBs2cVNkPw2vxEYOgHWbTY/tejKVxexKFx7+Tt2BlU
+55qMesDJt8vK/ksXwy9qjzmVYUA1yu9bPxI03LIndFxBumFGPCT4J+o2rC/p7dAq
+17B7UeOoOTDP+zdQHj5WGQqf1Hw6kvua5TvM48fL6/2gUsOKgQa/zFLXnTYvJcvi
+iog2bWyNX3aAV9qKRFbzo7xMt4P+y5NAleyC34VjYahN9/h/4Pt1R12EvxDYWp11
+hYwWi5U0ZROd8MFpZy+zjGV6SpfHwt35EtLdfuChpleyfaahujj5hkfyUd7fZS0y
+78j/78byoTi1GeCM0D4hzADBAhdUsAcxhcn/TcVeIqUs6rtMf5C+7TL1hExjq4eg
+ucwncSAs
+=VyoD
 -----END PGP SIGNATURE-----

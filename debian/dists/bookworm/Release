@@ -1,7 +1,7 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/debian
 Label: robotraconteur.github.io/robotraconteur-apt/debian
 Codename: bookworm
-Date: Mon, 25 Aug 2025 01:13:39 UTC
+Date: Mon, 25 Aug 2025 01:30:57 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: Robot Raconteur project apt repository

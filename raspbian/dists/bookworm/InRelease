@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
 Codename: bookworm
-Date: Mon, 25 Aug 2025 01:13:42 UTC
+Date: Mon, 25 Aug 2025 01:31:34 UTC
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
@@ -22,15 +22,15 @@ SHA256:
  9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEDIaPZaSBQNz+gMykzuLxlm/Tgq0FAmiruMYACgkQzuLxlm/T
-gq0HKwv9Exkqm/d0hcuVs6PSvbAaqX05qQ5nvXMTuTgxe9aOHsdQmqDmQJpaB8Uc
-D94GLbMoZyojCVaHMMoJyVcf/bQnXQQYCFDBkEDVSwQC1TkJn1gAIQIYp6RxZz5G
-rzkQcX+f4HrwF+BPpO+mehZatkHGKdbveTsoWFu1IFZaFhUHrcatQECXvkaOfjry
-OPRNUJupy+H02IOiJx5W9UZtChgu/FFoLgP3FWph6rrbCUjnVUpgH5Sw6AKfGY/J
-pA5lIE1O/8f4JpeqwqYmM/RtxZOFBBI3UcEyju1K1Fu+vuWV0PMh0shovLpkqLJB
-tYk95e9f5acWzAhwHKQ8FjoFGgdvqfJF3JxAkYH4ylisqXypKmVO0zztZcIqWRhh
-D8jPYEqGiaH3koNrk7WNM95La9s1Ts+oOs7rdmJ5cCxhjNDGlxsZ+UyNFS2E6cDh
-1Nyqu040V/xDzztKmAT4KZlnB2hGtW38tdTc4rZMPOkLOcvY7o2OsszaWpDREHpe
-0V9sX+l0
-=x6JP
+iQGzBAEBCgAdFiEEQQurqrIVQVKz79XSC4k8f4UREWAFAmirvPYACgkQC4k8f4UR
+EWCTiQwAiU/kqxJgShrhrogRCMPAXgerT4sbXNUdWdv8hi+yr2DmC0CXPm69V0Lc
+/dAJhBbxYDowJdng5INY/lnG1wcKC2UnJHJksHcDZruD1fFP36QdxhNx8y/VoZkY
+pV3oy+piZMgwS4z6oP9Rkdqq6QY1+1ovXVqEPB0vdriLRP6l4N59NxAlDNeWGYFr
+stYK0Z9K0dsPlyKk8+uAdOE4o9qoufOVM65KRU4U+q22LBOCUjAw2gRqVheoXQde
+Vsr157xMKOGFr9fntWeM4aK02m3SxEHmIWysazy+qr0L/3WLMRllSZhWhlZOstFa
+m3M+d30PgguGPZ2hRBtLkBY3Atgp9QQMfQjYSf1LCqLWSVTfVEXd7kNkHZtADGMA
+F7wfZoJFybEWl7XcpK6ez4TqAkOBOtfucjpUbOGLSoBixFireCXzJigMLvizm7sv
+XUBZfPwYNBM3h3mhs5Ugkzl9no/Rcz2dehSr2fB6mpd9dGwHHa3NGbcZqEvEaYWF
+Qcu4JHCt
+=PMu4
 -----END PGP SIGNATURE-----

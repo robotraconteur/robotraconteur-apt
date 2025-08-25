@@ -1,7 +1,7 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/debian
 Label: robotraconteur.github.io/robotraconteur-apt/debian
 Codename: trixie
-Date: Mon, 25 Aug 2025 01:13:28 UTC
+Date: Mon, 25 Aug 2025 01:31:07 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: Robot Raconteur project apt repository
