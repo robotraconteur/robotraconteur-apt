@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: robotraconteur.github.io/robotraconteur-apt/debian
+Label: robotraconteur.github.io/robotraconteur-apt/debian
+Codename: trixie
+Date: Mon, 25 Aug 2025 01:13:28 UTC
+Architectures: amd64 armhf arm64
+Components: main
+Description: Robot Raconteur project apt repository
+MD5Sum:
+ 3d5a6b942cc37bef273dab2a8071e781 4283 main/binary-amd64/Packages
+ 921f623254865c6a1414b24a81f88e49 1233 main/binary-amd64/Packages.gz
+ ceec93e29a34f15094093046044ce4ee 205 main/binary-amd64/Release
+ e4a5c910a324c3664d6e2551a6e21674 4281 main/binary-armhf/Packages
+ 6164daa2a1f15d390bee06e531e2e7c1 1234 main/binary-armhf/Packages.gz
+ a61a96b80b61986d1ead53cfb59bc19b 205 main/binary-armhf/Release
+ d54a86990334867ca19875f6a8ec4d77 4283 main/binary-arm64/Packages
+ a6f3c652cf76bacfe6ed399d4de784f3 1232 main/binary-arm64/Packages.gz
+ a2f3d86ae180f4e96ee2c257c422ba4d 205 main/binary-arm64/Release
+SHA1:
+ c4d464397576f63bd947d7d089f072d8d839dc12 4283 main/binary-amd64/Packages
+ f70336c649385630c61e8a6b7849d8a1d2f92797 1233 main/binary-amd64/Packages.gz
+ 1681481a45d28945db663f81882aadd907f8dd20 205 main/binary-amd64/Release
+ eb60f5f96e2d5eba4c0c7d61dfcee1a083f45c86 4281 main/binary-armhf/Packages
+ 5994d68deaaf0dc7c197e536932c08940f89556b 1234 main/binary-armhf/Packages.gz
+ 7fc738b6392d3e5350c2113a73f969f3c0aae495 205 main/binary-armhf/Release
+ 4284b170edb0a8f37bdc295c599c07f8d4b20b3f 4283 main/binary-arm64/Packages
+ 9e87695f867bd8fcfba85f604e4d84f78bea7306 1232 main/binary-arm64/Packages.gz
+ df6b53b24221c3416cdc7ee5bb96f55d8892e7f2 205 main/binary-arm64/Release
+SHA256:
+ c668ccb7549cf24d715ba1c7d2082e0f1982092a8aacebd2becc49da436099ff 4283 main/binary-amd64/Packages
+ 376f54cee1a6e6f896904a83c0e133e82757009302a2b7cd7b2b2a7f28a99758 1233 main/binary-amd64/Packages.gz
+ a4286d9ea62e6d8a3ec8827d7c37812f8ff78ded1b20fb3835bdffba7a6ccd19 205 main/binary-amd64/Release
+ 56ac2a2f9388359a2ec6b729027436bb274ccdad3c81148692a7e2e04cb9abf7 4281 main/binary-armhf/Packages
+ 3310347c03acbc27ee9aa2d3b72c958f0d9b8d4a16189d451199e917b121121e 1234 main/binary-armhf/Packages.gz
+ df4a5e07adb2227b7b9e2dc550d2970513208abf8a171db5c1ec600134a25e44 205 main/binary-armhf/Release
+ 96fe8b49104b0384434c698f1d3df4b6ed683f17f4ffccfb30e80716cc3d4a45 4283 main/binary-arm64/Packages
+ afd62d4c7d4ec5fa3fb576f635c3d080acb64fe76b8b5c4217bbda8161ea3a9e 1232 main/binary-arm64/Packages.gz
+ 78e9cba17d23579cd3082dec74fb900e7d0409fc29253521a69cb0320627cfe1 205 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEDIaPZaSBQNz+gMykzuLxlm/Tgq0FAmiruLgACgkQzuLxlm/T
+gq3oEAv+MGoY23rSYp/6ydvek8bXokjVgur+i5OSj95uJgWl3OcDH0MaMPueY/9V
+7VhoQuabPlqx/gbivG10bfjOppwx+Eu46K4OKDLReUUzYl1biq5ZIZPzD1IVJ4lO
+eEqV3z451V/vBSKtYwhXiwAVYgVqENpW37lYc6vtdXUFpgpS42HNW8K1ACEv2seO
+GmUuLwCs2EzklXufpU1/eqUztc2CehF4fyeFEHM2dLu+3/af3whnCiBO0DjkOqi+
+H2JaWcEgxS20frKwhTrcW0GCoJ8OwOb85dRIV9Hm3/+LVsIZLxHn18Y/brlVXrUq
+RlqsTV8cc7IWGGUJcFRs56W+Yr/3Vy8HHhZWIPo2bmvflJMb4SfPkghU93uycKN9
+i01bluoT+OAfBgMfuGOx5Ir1pyt0tzl077Z6JkLRvVKxvLnutThbaJawkKMczu3m
+g5/uqZsmY51qpwmmYB5rtF94bQ6LlY3q620jZZWOlraa/EghNfyQhcpM7cmeF7cI
+WcJYVRWh
+=MPyk
+-----END PGP SIGNATURE-----
