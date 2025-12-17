@@ -1,19 +1,19 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
 Codename: bullseye
-Date: Mon, 25 Aug 2025 01:31:25 UTC
+Date: Wed, 17 Dec 2025 23:46:04 UTC
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
 MD5Sum:
- 0c6bb85f8b30ba1d6274e598b9a3ad94 6707 main/binary-armhf/Packages
- a59d57bc36838f5140de5ce2810db601 1786 main/binary-armhf/Packages.gz
+ 80379d30f3be4eefae9c25d0447bcf0a 6728 main/binary-armhf/Packages
+ d9eb332f9d441af2c9ae73c0882fb2ab 1795 main/binary-armhf/Packages.gz
  66bdb184b7ebe1d5ad3bf521f7befe98 222 main/binary-armhf/Release
 SHA1:
- a705dcb33c03e11f428ac01233922f4d54a0b6fe 6707 main/binary-armhf/Packages
- 1b2e65a98bbe76a931f08e7529a05b9d7435a7b5 1786 main/binary-armhf/Packages.gz
+ 39db8f10821a1660928b59233505f8847073cae0 6728 main/binary-armhf/Packages
+ f28086f3dec71be6e20f9da64f51cedc385802c9 1795 main/binary-armhf/Packages.gz
  eeef757a7f50ec1f36061b214ad3384b67411ff4 222 main/binary-armhf/Release
 SHA256:
- f3c38e2791d332710d0a6cfa16a6ae1328b7ff6e55276eacd0b653f8a2ac26d8 6707 main/binary-armhf/Packages
- 3a7dadc81835908e586eebb0877df48c7eadf6289d066d50813f19ff3ca88aca 1786 main/binary-armhf/Packages.gz
+ 7c560ecb8376d14b77d736dffcee33553d2ad17dc2deb96c0344e4b10a01b8c1 6728 main/binary-armhf/Packages
+ 31cce3cef791eefdf7dc8358ee40b8c2199807821f59af3b627417205e2157c1 1795 main/binary-armhf/Packages.gz
  9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release

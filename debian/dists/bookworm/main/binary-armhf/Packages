@@ -55,23 +55,23 @@ Description: Companion C++ library for Robot Raconteur
 
 Package: librobotraconteur-dev
 Source: robotraconteur
-Version: 1.2.6-1~bookworm
+Version: 1.2.7-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 1143
-Depends: librobotraconteurcore1, robotraconteurgen, libboost-all-dev (>= 1.58.0)
+Installed-Size: 5486
+Depends: librobotraconteurcore1 (= 1.2.7-1~bookworm), robotraconteurgen, libboost-date-time-dev, libboost-filesystem-dev, libboost-system-dev, libboost-thread-dev, libboost-regex-dev, libboost-chrono-dev, libboost-atomic-dev, libboost-random-dev, libboost-program-options-dev, libboost-dev
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
-Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.6-1~bookworm_armhf.deb
-Size: 128944
-SHA256: e86c0b0e8daf834a71dd3e7021c4c27f4191a9a8b8c434a7ad296f6512b13efc
-SHA1: fcae573b0d747ffc8c89222c9ab86302c3015cfa
-MD5sum: a9a3bae2ea3e685e9cb82f5ac2d66048
-Description: Robot Raconteur is a communication framework for
- Robotics and Automation
- .
- This package provides development files of robotraconteur.
+Section: libdevel
+Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.7-1~bookworm_armhf.deb
+Size: 2928080
+SHA256: 93dfcf560ef7feacc1067e65d073db212647661ca6e8541b7ac54e2efb90e8c6
+SHA1: 244ce5a2ee332bd9b0f70a605c05c8711f2852f1
+MD5sum: 86045db51a9ab974e8bac065f8f383b6
+Description: Robot Raconteur development files
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the
+ development files for Robot Raconteur
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
@@ -93,60 +93,63 @@ Description: Robot Raconteur native library for use
 
 Package: librobotraconteurcore1
 Source: robotraconteur
-Version: 1.2.6-1~bookworm
+Version: 1.2.7-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 8263
+Installed-Size: 8260
 Depends: libboost-chrono1.74.0 (>= 1.74.0+ds1), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-random1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libssl3 (>= 3.0.0), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0
 Multi-Arch: same
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
-Section: contrib/libs
-Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.6-1~bookworm_armhf.deb
-Size: 2031604
-SHA256: 22646a3edbe932acf5962c295e79b7861f01d5364edafacef6baae7e13c429ba
-SHA1: 17f40ffcdba42456e8cf49e803d9749eec7032d5
-MD5sum: 4d84c9cfb518c1a6acbaae1365b6ed56
-Description: Robot Raconteur is a communication framework for
- Robotics and Automation
- .
- This package provides run-time library of robotraconteur.
+Section: libs
+Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.7-1~bookworm_armhf.deb
+Size: 2031924
+SHA256: 6f018b917a5b26d06b4b6d9949b9475ddb717557249a2d73196224d9ae5c733c
+SHA1: 60a3e9634579b91498f673eb5abf98e8962dff14
+MD5sum: efe17af585f74bd06d3608b7ee3e9869
+Description: Robot Raconteur core runtime library
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the
+ core runtime library of Robot Raconteur.
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.6-1~bookworm
+Version: 1.2.7-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 7075
-Depends: libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), librobotraconteurcore1, libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy, python3
+Installed-Size: 7073
+Depends: libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-thread1.74.0 (>= 1.74.0+ds1), libc6 (>= 2.34), libgcc-s1 (>= 3.5), librobotraconteurcore1 (>= 1.2.7), libstdc++6 (>= 11), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3 (<< 3.12), python3 (>= 3.11~), python3-numpy (>= 1:1.22.0), python3-numpy-abi9, python3:any
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
-Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.6-1~bookworm_armhf.deb
-Size: 1350028
-SHA256: a30d59406718c55f460b7aceaa9b00622822f24205bbd86cccdf995418c33464
-SHA1: e80859363de3f7d3989201b7cc30dd06c53c9df2
-MD5sum: 83de864212c1b55b06e333fe088c37f8
-Description: Robot Raconteur Python module
- Robot Raconteur Python module. Use with python 3
+Section: python
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.7-1~bookworm_armhf.deb
+Size: 1350440
+SHA256: ed3f8eb4509f3a4630d40af4f8b8bca1109e76d48fb7383f57a618a67a4d110c
+SHA1: 07e0a8da2adfbded57f15c763f880f7d10d9bf21
+MD5sum: 493abec8f9d366641e812db3973e70a0
+Description: Python module for Robot Raconteur
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the Robot
+ Raconteur Python module.
 
 Package: robotraconteurgen
 Source: robotraconteur
-Version: 1.2.6-1~bookworm
+Version: 1.2.7-1~bookworm
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 810
-Depends: librobotraconteurcore1, libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libc6 (>= 2.34), libgcc-s1 (>= 3.5), libstdc++6 (>= 11)
+Installed-Size: 813
+Depends: librobotraconteurcore1 (>= 1.2.7), libboost-filesystem1.74.0 (>= 1.74.0+ds1), libboost-program-options1.74.0 (>= 1.74.0+ds1), libboost-regex1.74.0-icu72, libc6 (>= 2.34), libgcc-s1 (>= 3.5), libstdc++6 (>= 11)
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
-Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.6-1~bookworm_armhf.deb
-Size: 325104
-SHA256: 06c82ed4d2776d85995a41c982f7fe24d44be44f2926354c4c85bd31d760053f
-SHA1: 3bfb92a65251152b06df0a8fb947d1f7f08623da
-MD5sum: 8641ff793d11c67b5b3a9a3e3001e948
-Description: Robot Raconteur is a communication framework for
- Robotics and Automation
- .
- This package provides the RobotRaconteurGen tool.
+Section: devel
+Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.7-1~bookworm_armhf.deb
+Size: 326432
+SHA256: 326e47f1b1dc7a70b3635f994fa935a075585a7de9d7fd4e9cd3243690b11294
+SHA1: fbe6a0604759090d2f3b5cf0b7cb64e1ba7673e8
+MD5sum: 5d1bd5104937ea1e258fd430626aa96b
+Description: Robot Raconteur code generator
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the
+ RobotRaconteurGen tool for generating thunk code from
+ robdef files.
 

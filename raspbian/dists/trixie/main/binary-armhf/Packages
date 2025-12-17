@@ -1,0 +1,82 @@
+Package: librobotraconteur-dev
+Source: robotraconteur
+Version: 1.2.7-1~trixie
+Architecture: armhf
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 5486
+Depends: librobotraconteurcore1 (= 1.2.7-1~trixie), robotraconteurgen, libboost-date-time-dev, libboost-filesystem-dev, libboost-system-dev, libboost-thread-dev, libboost-regex-dev, libboost-chrono-dev, libboost-atomic-dev, libboost-random-dev, libboost-program-options-dev, libboost-dev
+Homepage: https://github.com/robotraconteur/robotraconteur
+Priority: optional
+Section: libdevel
+Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.7-1~trixie_armhf.deb
+Size: 2927700
+SHA256: 46476b66b225b5e8fb2cee289020f80380f8ba368a56d88e987e5e4e213750a0
+SHA1: 8062ae33b89c9c7ac354c08bac556d264c3a5937
+MD5sum: 2faa50c4bc4a8beb5f45e6a114bd14f3
+Description: Robot Raconteur development files
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the
+ development files for Robot Raconteur
+
+Package: librobotraconteurcore1
+Source: robotraconteur
+Version: 1.2.7-1~trixie
+Architecture: armhf
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 10456
+Depends: libatomic1 (>= 4.8), libboost-chrono1.83.0t64 (>= 1.83.0), libboost-filesystem1.83.0 (>= 1.83.0), libboost-program-options1.83.0 (>= 1.83.0), libboost-random1.83.0 (>= 1.83.0), libboost-thread1.83.0 (>= 1.83.0), libc6 (>= 2.38), libgcc-s1 (>= 3.5), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libbluetooth3, libdbus-1-3, libusb-1.0-0
+Multi-Arch: same
+Homepage: https://github.com/robotraconteur/robotraconteur
+Priority: optional
+Section: libs
+Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.7-1~trixie_armhf.deb
+Size: 2154328
+SHA256: 54b42a8859ec7c6611652aa526bcf0753ab2036de4d6c7c0a7a49e2a5cffe267
+SHA1: f7f05e52942330a9bf43a5d0097253a2799514f2
+MD5sum: 952b748746ff77ba5c14994059aa6f5c
+Description: Robot Raconteur core runtime library
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the
+ core runtime library of Robot Raconteur.
+
+Package: python3-robotraconteur
+Source: robotraconteur
+Version: 1.2.7-1~trixie
+Architecture: armhf
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 9174
+Depends: libboost-program-options1.83.0 (>= 1.83.0), libboost-thread1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.5), librobotraconteurcore1 (>= 1.2.7), libstdc++6 (>= 14), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3 (<< 3.14), python3 (>= 3.13~), python3-numpy, python3-numpy2-abi0 | python3-numpy-abi9, python3:any
+Homepage: https://github.com/robotraconteur/robotraconteur
+Priority: optional
+Section: python
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.7-1~trixie_armhf.deb
+Size: 1361812
+SHA256: 6186214198fe66700a081a355d271b0e59f112ac42567288db0d7c27c7bc50c7
+SHA1: e25ee6999781ea4e043bddff446bec5d4df624ef
+MD5sum: 95a8352f0bb8bf214e8158c2519e49eb
+Description: Python module for Robot Raconteur
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the Robot
+ Raconteur Python module.
+
+Package: robotraconteurgen
+Source: robotraconteur
+Version: 1.2.7-1~trixie
+Architecture: armhf
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 1173
+Depends: librobotraconteurcore1 (>= 1.2.7), libboost-filesystem1.83.0 (>= 1.83.0), libboost-program-options1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libstdc++6 (>= 13.1)
+Homepage: https://github.com/robotraconteur/robotraconteur
+Priority: optional
+Section: devel
+Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.7-1~trixie_armhf.deb
+Size: 337092
+SHA256: 1dd908d08686cb84945901a30f21e40c6e6dd4c1977ebf0b791f18171d27ed29
+SHA1: e700ca6db01fc8773e69a99c750d6735631363dd
+MD5sum: d43ca8867c6cfc525089b5cda0d66267
+Description: Robot Raconteur code generator
+ Robot Raconteur is a communication framework for
+ Robotics and Automation. This package provides the
+ RobotRaconteurGen tool for generating thunk code from
+ robdef files.
+
