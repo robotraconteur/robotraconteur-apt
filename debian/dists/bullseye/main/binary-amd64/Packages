@@ -55,19 +55,19 @@ Description: Companion C++ library for Robot Raconteur
 
 Package: librobotraconteur-dev
 Source: robotraconteur
-Version: 1.2.7-1~bullseye
+Version: 1.2.8-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 1141
-Depends: librobotraconteurcore1 (= 1.2.7-1~bullseye), robotraconteurgen, libboost-all-dev (>= 1.58.0)
+Depends: librobotraconteurcore1 (= 1.2.8-1~bullseye), robotraconteurgen, libboost-all-dev (>= 1.58.0)
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.7-1~bullseye_amd64.deb
-Size: 128960
-SHA256: 77287cb6cb7bfc0c1eeda8fca9b32a7c896a3be4a40bc12180a2db143df9d2cd
-SHA1: 40fcbeb9028a56f01be18b7c971a787c3d5504ad
-MD5sum: 55251724dcee5a241a75b44ccdc2bf1d
+Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.8-1~bullseye_amd64.deb
+Size: 129160
+SHA256: 2298eebbaaffab78a6be7aad204aa9cdb109b7183a1e90cda87cd360f23573e0
+SHA1: 63725f7de39585c8935b757ec576d2b57ea534ac
+MD5sum: 27ae9b8e341289f3831247666bac36f0
 Description: Robot Raconteur is a communication framework for
  Robotics and Automation
  .
@@ -75,7 +75,7 @@ Description: Robot Raconteur is a communication framework for
 
 Package: librobotraconteur-net-native
 Source: robotraconteur
-Version: 1.2.7-1~bullseye
+Version: 1.2.8-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 6625
@@ -83,17 +83,17 @@ Depends: libboost-program-options1.74.0 (>= 1.74.0), libboost-thread1.74.0 (>= 1
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.7-1~bullseye_amd64.deb
-Size: 1181448
-SHA256: 54fc477668d2d9fb70058c203669267bd1d184389b138ebafd0d8c98bbf8521d
-SHA1: 12d6396e86ef4cac131292e055e054c02cb0db77
-MD5sum: 6a906014bdcf2f28c55bb2dec1d07c53
+Filename: pool/main/r/robotraconteur/librobotraconteur-net-native_1.2.8-1~bullseye_amd64.deb
+Size: 1180236
+SHA256: 5ce27259cb550e16c6654dfbff31bcc6a4cf02d1d985f81c8a8a0ac2ade168b8
+SHA1: 565848e757104e5d58f73ea59ceb077f47c2c755
+MD5sum: 4405096bb1353d5b2040e092f121af44
 Description: Robot Raconteur native library for use
  with Nuget package
 
 Package: librobotraconteurcore1
 Source: robotraconteur
-Version: 1.2.7-1~bullseye
+Version: 1.2.8-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 11465
@@ -102,11 +102,11 @@ Multi-Arch: same
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.7-1~bullseye_amd64.deb
-Size: 2321464
-SHA256: d9f2d67186c138905f483a2febaf332b911861e6bb18b849e70f3e512e88a1b1
-SHA1: 502b2f48956a0cdbd5864ce9f84d984812e447d5
-MD5sum: 71d8821625db826cd72dc17d8a7bc6ac
+Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.8-1~bullseye_amd64.deb
+Size: 2320308
+SHA256: ad8e5d4e6037300a9b653701afad529b1655c74cb796f5eb2b2830331fd04863
+SHA1: 920e9653d7b5369f03eee64b95694aed298ea87a
+MD5sum: dcb95e40ee16bc90376cd453f3d4c90a
 Description: Robot Raconteur is a communication framework for
  Robotics and Automation
  .
@@ -114,25 +114,25 @@ Description: Robot Raconteur is a communication framework for
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.7-1~bullseye
+Version: 1.2.8-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 9520
+Installed-Size: 9591
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), librobotraconteurcore1, libstdc++6 (>= 5.2), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3-numpy, python3
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: contrib/python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.7-1~bullseye_amd64.deb
-Size: 1556560
-SHA256: 6f069f1500f674ca05adb174cfa5d3b6a003023f3c6c78d6121894760fa53382
-SHA1: 8878abb1b32311a2a66c514664a2a9b817533d99
-MD5sum: 848e2d8618e9f66de7b9030c8955d177
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.8-1~bullseye_amd64.deb
+Size: 1564924
+SHA256: 8a4301623b42b9a2c7fa6b3cc08dc2a18a6106313fa761334036b2dbd127d5ff
+SHA1: f4daeafa4d01f960d5997e5585a4874d97eb0b76
+MD5sum: c5e52960b44eab0ab05861cdd51e3432
 Description: Robot Raconteur Python module
  Robot Raconteur Python module. Use with python 3
 
 Package: robotraconteurgen
 Source: robotraconteur
-Version: 1.2.7-1~bullseye
+Version: 1.2.8-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 1220
@@ -140,11 +140,11 @@ Depends: librobotraconteurcore1, libboost-filesystem1.74.0 (>= 1.74.0), libboost
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.7-1~bullseye_amd64.deb
-Size: 368508
-SHA256: be848d69930e5a99282c00de68b3834137aa068f0ada094eb2d2126e54b43a8f
-SHA1: 662a6b08b8854d16a0d4ea7306938fc8771fff5c
-MD5sum: b6c9b6e9ac6e21078aa3d828a808f1eb
+Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.8-1~bullseye_amd64.deb
+Size: 368884
+SHA256: 228213f445bae53f61245750558c1cc1fc0f25c297cdd3fdc0312164124c25bb
+SHA1: 96cf3d2807d6e92fa6c11ef829d8baeb650c0b7e
+MD5sum: 957c71226c47885dcb7600bebfed51fa
 Description: Robot Raconteur is a communication framework for
  Robotics and Automation
  .
