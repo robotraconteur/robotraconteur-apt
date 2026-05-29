@@ -1,19 +1,19 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
 Codename: trixie
-Date: Sun, 24 May 2026 02:04:18 UTC
+Date: Fri, 29 May 2026 00:41:03 UTC
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
 MD5Sum:
- 3adbac3da7e73b3ca3b42e56e7a65ab0 4008 main/binary-armhf/Packages
- e3cc5afd0aac5bcd66bfd4795f0ad605 1214 main/binary-armhf/Packages.gz
+ f04ae67217e3b281b2d5653e7fb35adf 5708 main/binary-armhf/Packages
+ 92dc8033c4e6f9d648a9380f7fe6aee4 1595 main/binary-armhf/Packages.gz
  66bdb184b7ebe1d5ad3bf521f7befe98 222 main/binary-armhf/Release
 SHA1:
- fef02feb39fb2a4ab239adfe4ff3a913a5e91463 4008 main/binary-armhf/Packages
- e988c6b0b7ed1d7adffd1ad312ceea4086f9416d 1214 main/binary-armhf/Packages.gz
+ 20fd705decacc425ce3c186b36d8f766936db7ef 5708 main/binary-armhf/Packages
+ 6a3ff01b12e512f0c73936bcd8108bbdb1b97ddd 1595 main/binary-armhf/Packages.gz
  eeef757a7f50ec1f36061b214ad3384b67411ff4 222 main/binary-armhf/Release
 SHA256:
- c26fb2aa78c33879a2d488a0e696efaf83edf6b8390c197813fafe807b12f9d6 4008 main/binary-armhf/Packages
- 39018e9af9accf6930cee25220644a5acff979ab809a160dc0972e4ae8a49208 1214 main/binary-armhf/Packages.gz
+ 4e02b7e856c692b81a2176fc034fc7d8af034a3accbcdf66fad7235eeadbcd0a 5708 main/binary-armhf/Packages
+ 963cf284439108b20df7facbb043f4ad7a64014a3909c64f40e6c2944d65a05c 1595 main/binary-armhf/Packages.gz
  9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release

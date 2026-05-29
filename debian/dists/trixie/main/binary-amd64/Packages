@@ -1,3 +1,42 @@
+Package: librobotraconteur-companion-dev
+Source: robotraconteur-companion
+Version: 0.4.3-1~trixie
+Architecture: amd64
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 1613
+Depends: librobotraconteur-companion0.4, librobotraconteur-dev, libboost-all-dev (>= 1.58.0), libyaml-cpp-dev, libeigen3-dev, libopencv-dev
+Homepage: https://github.com/robotraconteur/robotraconteur_companion
+Priority: optional
+Section: contrib/libdevel
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.3-1~trixie_amd64.deb
+Size: 81516
+SHA256: bca0ad170bc553911dcb5c582d645ad875052c675d6d3a71c5d29f2c548b8ed8
+SHA1: fc268cf04716f7be7262873393bc0bf48682a356
+MD5sum: ac09627b4cffbed502ccab80d403ea23
+Description: Companion C++ library for Robot Raconteur
+ .
+ This package provides development files of robotraconteur-companion.
+
+Package: librobotraconteur-companion0.4
+Source: robotraconteur-companion
+Version: 0.4.3-1~trixie
+Architecture: amd64
+Maintainer: John Wason <wason@wasontech.com>
+Installed-Size: 24559
+Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.0), librobotraconteurcore1 (>= 1.2.8), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.8.0+dfsg-7)
+Multi-Arch: same
+Homepage: https://github.com/robotraconteur/robotraconteur_companion
+Priority: optional
+Section: contrib/libs
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.3-1~trixie_amd64.deb
+Size: 3163276
+SHA256: 306848de3068d1d79ae5310388d63ec0f1a0361c79b4435ddb185f3a41144984
+SHA1: c49965e0e66efe4139679bbab38793ff8e653fa5
+MD5sum: 24521990cfb4f82ac7e9cc5f0d3ad80a
+Description: Companion C++ library for Robot Raconteur
+ .
+ This package provides run-time library of robotraconteur-companion.
+
 Package: librobotraconteur-dev
 Source: robotraconteur
 Version: 1.2.8-1~trixie
