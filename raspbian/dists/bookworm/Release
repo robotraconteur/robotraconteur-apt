@@ -1,19 +1,19 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/raspbian
 Label: robotraconteur.github.io/robotraconteur-apt/raspbian
 Codename: bookworm
-Date: Sun, 24 May 2026 02:04:24 UTC
+Date: Fri, 29 May 2026 00:41:06 UTC
 Architectures: armhf
 Components: main
 Description: Robot Raconteur project apt repository for raspbian
 MD5Sum:
- 64e86577066415c0849872ae8e700c20 7268 main/binary-armhf/Packages
- d92b250eda6dfa18c9fae7a7895f1535 1942 main/binary-armhf/Packages.gz
+ bf636c1863d956a25935fcfaf50b8682 7279 main/binary-armhf/Packages
+ 280987198237531b893ea95e4c13d429 1947 main/binary-armhf/Packages.gz
  66bdb184b7ebe1d5ad3bf521f7befe98 222 main/binary-armhf/Release
 SHA1:
- 47dc191c7bba438ef2a93cf6e1a85127db07c338 7268 main/binary-armhf/Packages
- 4ce21d6bde65932936a91895734076e2cedf685a 1942 main/binary-armhf/Packages.gz
+ f091279d9146a77555cc574690fd7f92e4b5a172 7279 main/binary-armhf/Packages
+ b876b75c1529c3fb2211ea77a4a759666537493c 1947 main/binary-armhf/Packages.gz
  eeef757a7f50ec1f36061b214ad3384b67411ff4 222 main/binary-armhf/Release
 SHA256:
- 1d6c9d5c6abd5d7f2de53486e8672c07a8e55aeefc774094ff0ddf6d75948ba2 7268 main/binary-armhf/Packages
- e649007e2b9722fef1e135b5111be6339f35fb3321a0170adea36a16bb98c332 1942 main/binary-armhf/Packages.gz
+ f104834937428ab05d0ccace8d79870a8b5d7b26dbc888d8b00a7c254267d0b0 7279 main/binary-armhf/Packages
+ d65b4860cdb5d696159dede61eb490f3d466a3fb8165258bc4ab418500f90f8b 1947 main/binary-armhf/Packages.gz
  9e76cc4ccd359ff82484c2bbc606946954e16857932624d2ebed20d815673afe 222 main/binary-armhf/Release

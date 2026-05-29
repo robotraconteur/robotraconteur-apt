@@ -1,37 +1,37 @@
 Origin: robotraconteur.github.io/robotraconteur-apt/debian
 Label: robotraconteur.github.io/robotraconteur-apt/debian
 Codename: bookworm
-Date: Sun, 24 May 2026 02:04:16 UTC
+Date: Fri, 29 May 2026 00:41:02 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: Robot Raconteur project apt repository
 MD5Sum:
- 43c142381c370480126794c96828d357 7248 main/binary-amd64/Packages
- d54bf513cbd7a6cc8df39ebdc347961d 1947 main/binary-amd64/Packages.gz
+ ad1d25a7196c22884cbc9ac895704045 7259 main/binary-amd64/Packages
+ 87a6599e3c3deb068e6595bb879e085b 1953 main/binary-amd64/Packages.gz
  ceec93e29a34f15094093046044ce4ee 205 main/binary-amd64/Release
- e7e6a1ec4c436b21f8912c228b336ec2 7246 main/binary-armhf/Packages
- 57328fbaa21281c477803b04e18b1ca3 1931 main/binary-armhf/Packages.gz
+ 90566b941ae19dbf81ac29bc01429e6b 7257 main/binary-armhf/Packages
+ c9e417b226f9902474c820ba7c36cf62 1936 main/binary-armhf/Packages.gz
  a61a96b80b61986d1ead53cfb59bc19b 205 main/binary-armhf/Release
- 4da4526c94a90e40bbb3fb77d27bf21d 7248 main/binary-arm64/Packages
- 0e53a02b8f6ca6dbdbd545d0ce90a4c5 1935 main/binary-arm64/Packages.gz
+ 64f6514188416b57735e7d0e268fd535 7259 main/binary-arm64/Packages
+ dfcfcf4144f4625b5a817e98b326f6b0 1936 main/binary-arm64/Packages.gz
  a2f3d86ae180f4e96ee2c257c422ba4d 205 main/binary-arm64/Release
 SHA1:
- 1603d8fb5e89829269d6701cfc6aa8d1da001d48 7248 main/binary-amd64/Packages
- bec2230ff31f6437676307198ef0e19c33280f61 1947 main/binary-amd64/Packages.gz
+ 128cd6430ace84d435164dd75dfc7c6ce328bd40 7259 main/binary-amd64/Packages
+ a8702a76ba7f148ea2337b73158e23eea679dc99 1953 main/binary-amd64/Packages.gz
  1681481a45d28945db663f81882aadd907f8dd20 205 main/binary-amd64/Release
- f743fc389ede741b5e0771eb91908b7fdf5eb8f6 7246 main/binary-armhf/Packages
- e7e47af65c53f3a39083af77e09252bdedbd9c88 1931 main/binary-armhf/Packages.gz
+ 4e9d9308ae37d40c8456defa8a521729b7f12339 7257 main/binary-armhf/Packages
+ 4b0f1d746edd858f6995515d54c9600baf0d43c9 1936 main/binary-armhf/Packages.gz
  7fc738b6392d3e5350c2113a73f969f3c0aae495 205 main/binary-armhf/Release
- 1a15c66775b53cddc1c1226617786d3922daf488 7248 main/binary-arm64/Packages
- 28a07df584869a8c8601d18dbf296b201af3a895 1935 main/binary-arm64/Packages.gz
+ 52958d29dd7b2cf695bf00eac1d06ac784f27dca 7259 main/binary-arm64/Packages
+ 39d3600feb021e4968b1c07e0ce4deb57a79710d 1936 main/binary-arm64/Packages.gz
  df6b53b24221c3416cdc7ee5bb96f55d8892e7f2 205 main/binary-arm64/Release
 SHA256:
- e8addebe404d8055c70269ac0043f4d18356c4a7844f18a4db8e7272c6323b06 7248 main/binary-amd64/Packages
- 27400f8a3f99b7394fe5a65e7324430096a0564d0184d40ce6c84fa2526e6435 1947 main/binary-amd64/Packages.gz
+ b6552eab2df0db3934b1d593c05a08d50a18b9fb8686b607d9324b85d9bb4c65 7259 main/binary-amd64/Packages
+ dd61fa26fb9331a1e9bf85b26b122134d14f0a6a1a4280b6a04e888c08044fb9 1953 main/binary-amd64/Packages.gz
  a4286d9ea62e6d8a3ec8827d7c37812f8ff78ded1b20fb3835bdffba7a6ccd19 205 main/binary-amd64/Release
- 955dc3b83b001c52806e670df85573c4dd10bed893403e7fb507c047fdddeb64 7246 main/binary-armhf/Packages
- 50a0dcca2591244107e95520d7a2ba0d29ee2db5d8665ed73ea09d50934e0a14 1931 main/binary-armhf/Packages.gz
+ 89644178860bf0f368a3a4458141df537eaf5e4ce579d28c40e14dccfc5955d8 7257 main/binary-armhf/Packages
+ 270c686c8952641b795ac96885ad115796d5b89c59b61d58d7d627ec5df0991d 1936 main/binary-armhf/Packages.gz
  df4a5e07adb2227b7b9e2dc550d2970513208abf8a171db5c1ec600134a25e44 205 main/binary-armhf/Release
- b3717f40b351e2e25503b97acc349ada85273397fce0560d34f834d786ab1656 7248 main/binary-arm64/Packages
- 7607a842801416d856463acecdd1801487d61fab54d3054154a42fac510851bc 1935 main/binary-arm64/Packages.gz
+ eb451f1a0e4cc0d73acd535c5051e0447ba61b468e7502e728710a191b2a819a 7259 main/binary-arm64/Packages
+ bdd5dde361e43da3a3ee15a74c932ca4cb6af47988baf3901b6f4c960ca21fdf 1936 main/binary-arm64/Packages.gz
  78e9cba17d23579cd3082dec74fb900e7d0409fc29253521a69cb0320627cfe1 205 main/binary-arm64/Release

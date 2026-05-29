@@ -16,7 +16,7 @@ Description: Drekar Launch Process C++ library
 
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
-Version: 0.4.2-1~bullseye
+Version: 0.4.3-1~bullseye
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 1612
@@ -24,31 +24,31 @@ Depends: librobotraconteur-companion0.4, librobotraconteur-dev, libboost-all-dev
 Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.2-1~bullseye_arm64.deb
-Size: 81452
-SHA256: c3d586563c83c0128ef385a5886b296762483497db97766635d769bd1151b8a6
-SHA1: 654c05abb1919e82126c721712dec3bea7890620
-MD5sum: 25dce9b81ae1feb6947c4449e6bc6ea7
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.3-1~bullseye_arm64.deb
+Size: 81544
+SHA256: 00e2e770e3f6fbdd3b48bede3bff03c3ec2daa2433fd6c923e2ab04c2c8bb05a
+SHA1: 67d3265484b056a412242144251b28b6d8406af5
+MD5sum: 11262365827c4768c24313c92bd2e1ca
 Description: Companion C++ library for Robot Raconteur
  .
  This package provides development files of robotraconteur-companion.
 
 Package: librobotraconteur-companion0.4
 Source: robotraconteur-companion
-Version: 0.4.2-1~bullseye
+Version: 0.4.3-1~bullseye
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 23978
+Installed-Size: 23930
 Depends: libboost-regex1.74.0-icu67, libc6 (>= 2.25), libgcc-s1 (>= 3.0), librobotraconteurcore1, libstdc++6 (>= 5.2), libyaml-cpp0.6 (>= 0.6.2)
 Multi-Arch: same
 Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.2-1~bullseye_arm64.deb
-Size: 2770744
-SHA256: ef3ccf531d8eba4ef413905e8b415fbcb4c93cf0b64a3839dcb34ac42300f1f6
-SHA1: 5b4afa9a58e51c83debe4403992b9f4b1714f98e
-MD5sum: 63b5ac3347e6611e4eb7b23d39c50b2d
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.3-1~bullseye_arm64.deb
+Size: 2771720
+SHA256: 2d18526d1134d0a74437dfcb527df7b3c06ed6829a37540e8e05026a488c0726
+SHA1: 7ae65f6721cd8ff674a396cc04c4cd466b8ac7c7
+MD5sum: 244612f40a59b9db773a25e76b76a51e
 Description: Companion C++ library for Robot Raconteur
  .
  This package provides run-time library of robotraconteur-companion.

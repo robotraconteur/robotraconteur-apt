@@ -16,7 +16,7 @@ Description: Drekar Launch Process C++ library
 
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
-Version: 0.4.2-1~bullseye
+Version: 0.4.3-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 1612
@@ -24,18 +24,18 @@ Depends: librobotraconteur-companion0.4, librobotraconteur-dev, libboost-all-dev
 Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.2-1~bullseye_amd64.deb
-Size: 81464
-SHA256: f9d2a82da432fe68c6ddbc7d6a4d311f934d6fe32a8825b832aebc0e44e06dd5
-SHA1: b83eafd5b571c40ca2324c95aa686d833a9f6c2e
-MD5sum: 61b0c1d8b0451f97a19663a2a772b415
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.3-1~bullseye_amd64.deb
+Size: 81560
+SHA256: 21d3dd2327a0ec9efbd497db98f40b1df106b471332dba43483ecda8af6f3e31
+SHA1: 3ec9bd0c9edaa3990a6ff8c32729de34d9136d1b
+MD5sum: a590a2ba5ea2aed4cf599f1a679022ac
 Description: Companion C++ library for Robot Raconteur
  .
  This package provides development files of robotraconteur-companion.
 
 Package: librobotraconteur-companion0.4
 Source: robotraconteur-companion
-Version: 0.4.2-1~bullseye
+Version: 0.4.3-1~bullseye
 Architecture: amd64
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 24334
@@ -44,11 +44,11 @@ Multi-Arch: same
 Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.2-1~bullseye_amd64.deb
-Size: 3007732
-SHA256: dd88886ca8f81d13fc35f19e19fe31202270787f9b96402ef8289d7effc6736f
-SHA1: 58c4fdc6ef8b378326cd990a3a685f52db8a5182
-MD5sum: 77d51abf192c68aad5c3016d857a983f
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.3-1~bullseye_amd64.deb
+Size: 3009640
+SHA256: 32386d6005fffb3e0880ee2cc8a1129a7814e4b8098838f6477ea20eb91dfb81
+SHA1: c30374e21156897bff17e082c285e3010911fa33
+MD5sum: 166be258149a2c5d1246b9089f202e55
 Description: Companion C++ library for Robot Raconteur
  .
  This package provides run-time library of robotraconteur-companion.
