@@ -39,19 +39,19 @@ Description: Companion C++ library for Robot Raconteur
 
 Package: librobotraconteur-dev
 Source: robotraconteur
-Version: 1.2.8-1~trixie
+Version: 1.2.9-1~trixie
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 5486
-Depends: librobotraconteurcore1 (= 1.2.8-1~trixie), robotraconteurgen, libboost-date-time-dev, libboost-filesystem-dev, libboost-system-dev, libboost-thread-dev, libboost-regex-dev, libboost-chrono-dev, libboost-atomic-dev, libboost-random-dev, libboost-program-options-dev, libboost-dev
+Installed-Size: 5488
+Depends: librobotraconteurcore1 (= 1.2.9-1~trixie), robotraconteurgen, libboost-date-time-dev, libboost-filesystem-dev, libboost-system-dev, libboost-thread-dev, libboost-regex-dev, libboost-chrono-dev, libboost-atomic-dev, libboost-random-dev, libboost-program-options-dev, libboost-dev
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: libdevel
-Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.8-1~trixie_armhf.deb
-Size: 2927836
-SHA256: af71b333b74ef2dfe18493aa3688fea33ef0450d8a4720ccedf602532faaf0aa
-SHA1: caec545adf6690e28716b65ab2df36bd049b8b7f
-MD5sum: d081a0e44ac912a2f5a3563fafe6ad3b
+Filename: pool/main/r/robotraconteur/librobotraconteur-dev_1.2.9-1~trixie_armhf.deb
+Size: 2928324
+SHA256: 5b78b51c923642c0e5e5e7c83a4e7ec971ccb303f51d884ff02432b7f46abde0
+SHA1: f8cd3dd874d090cc2dd24cc48ce0b09813bbfba9
+MD5sum: e09e6137a21adb75c3cbcc831b5d04b7
 Description: Robot Raconteur development files
  Robot Raconteur is a communication framework for
  Robotics and Automation. This package provides the
@@ -59,7 +59,7 @@ Description: Robot Raconteur development files
 
 Package: librobotraconteurcore1
 Source: robotraconteur
-Version: 1.2.8-1~trixie
+Version: 1.2.9-1~trixie
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 10456
@@ -68,11 +68,11 @@ Multi-Arch: same
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: libs
-Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.8-1~trixie_armhf.deb
-Size: 2153992
-SHA256: 575f3e4ed6959f5b5edae4e3ff8c0761f6464ce8308b454b1f6701e8eddeccd5
-SHA1: 5aa12476b0d92d46570c5437457257dd34652df8
-MD5sum: 3e74e28e2051fe260ba73fd13e0c801a
+Filename: pool/main/r/robotraconteur/librobotraconteurcore1_1.2.9-1~trixie_armhf.deb
+Size: 2161084
+SHA256: 42893a73da53f51028f8a2b37442b64608ed4db19719abd72de70d90854daa79
+SHA1: 9be7e2f659d9c24e6e13a87339a463f0a406ad94
+MD5sum: 8d144fddf4959bb5be720a4b036614ae
 Description: Robot Raconteur core runtime library
  Robot Raconteur is a communication framework for
  Robotics and Automation. This package provides the
@@ -80,19 +80,19 @@ Description: Robot Raconteur core runtime library
 
 Package: python3-robotraconteur
 Source: robotraconteur
-Version: 1.2.8-1~trixie
+Version: 1.2.9-1~trixie
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 9101
-Depends: libboost-program-options1.83.0 (>= 1.83.0), libboost-thread1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.5), librobotraconteurcore1 (>= 1.2.8), libstdc++6 (>= 14), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3 (<< 3.14), python3 (>= 3.13~), python3-numpy, python3-numpy2-abi0 | python3-numpy-abi9, python3:any
+Depends: libboost-program-options1.83.0 (>= 1.83.0), libboost-thread1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.5), librobotraconteurcore1 (>= 1.2.9), libstdc++6 (>= 14), libbluetooth3, libdbus-1-3, libusb-1.0-0, python3 (<< 3.14), python3 (>= 3.13~), python3-numpy, python3-numpy2-abi0 | python3-numpy-abi9, python3:any
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: python
-Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.8-1~trixie_armhf.deb
-Size: 1359544
-SHA256: 3bc7e3062a02ac21c73556406bbf724f4e9fc615672f88a9f903032c1cdd1824
-SHA1: cf9e374d5d12fcd5ef9a1e384e7dd138dd468852
-MD5sum: 19b58cf8bc4de87f2e855431ab5c3bad
+Filename: pool/main/r/robotraconteur/python3-robotraconteur_1.2.9-1~trixie_armhf.deb
+Size: 1359236
+SHA256: 200dccc249cf319eb9b3758573d08ec59a51d8a444504058317c64340757dc3b
+SHA1: a4717d96f609f6c0e1245e3823c895972c9d7e71
+MD5sum: 4c4cf5dbfdf488246b619436fb4ed223
 Description: Python module for Robot Raconteur
  Robot Raconteur is a communication framework for
  Robotics and Automation. This package provides the Robot
@@ -100,19 +100,19 @@ Description: Python module for Robot Raconteur
 
 Package: robotraconteurgen
 Source: robotraconteur
-Version: 1.2.8-1~trixie
+Version: 1.2.9-1~trixie
 Architecture: armhf
 Maintainer: John Wason <wason@wasontech.com>
 Installed-Size: 1173
-Depends: librobotraconteurcore1 (>= 1.2.8), libboost-filesystem1.83.0 (>= 1.83.0), libboost-program-options1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libstdc++6 (>= 13.1)
+Depends: librobotraconteurcore1 (>= 1.2.9), libboost-filesystem1.83.0 (>= 1.83.0), libboost-program-options1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.5), libstdc++6 (>= 13.1)
 Homepage: https://github.com/robotraconteur/robotraconteur
 Priority: optional
 Section: devel
-Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.8-1~trixie_armhf.deb
-Size: 337284
-SHA256: 2ec2aeae6ed265cbb6d4c89dc7c82a53382104392e704cbfc6c5ae6ec46c963a
-SHA1: ae9858861b18247476760f13aa1c6c0a8be9e5f8
-MD5sum: 337b8363613b1439730336a7187fb0c4
+Filename: pool/main/r/robotraconteur/robotraconteurgen_1.2.9-1~trixie_armhf.deb
+Size: 337424
+SHA256: 03afd1e77d6eed50dd77ec655f146aa2ebde6c7f2ef7e9ef8b5bc6e11f8eeb43
+SHA1: f6b2c9c2d0f8ec16ac75dabcda29a9e4d27b1b3e
+MD5sum: 3a6557f6c2732d0ee6877985e637528d
 Description: Robot Raconteur code generator
  Robot Raconteur is a communication framework for
  Robotics and Automation. This package provides the
