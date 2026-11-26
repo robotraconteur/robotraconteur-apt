@@ -1,38 +1,38 @@
 Package: librobotraconteur-companion-dev
 Source: robotraconteur-companion
-Version: 0.4.3-1~trixie
+Version: 0.4.4-1~trixie
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 1613
+Installed-Size: 1614
 Depends: librobotraconteur-companion0.4, librobotraconteur-dev, libboost-all-dev (>= 1.58.0), libyaml-cpp-dev, libeigen3-dev, libopencv-dev
 Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libdevel
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.3-1~trixie_arm64.deb
-Size: 81516
-SHA256: c07880be5954ddc403674fdc4d3c7f0193185b35d4ccf327acd42dda7d670e0a
-SHA1: bb263d2d3a7da1b191de59f898139b00549906e9
-MD5sum: 4da977a7cceff535a7d4dfdbeef99875
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion-dev_0.4.4-1~trixie_arm64.deb
+Size: 81652
+SHA256: 18c39b742ca15e935677e573798bfa427a0bf5c5aec739165c0e416edd1ffe00
+SHA1: eaf0a537103bdc498e8886547ecb7b4eefc430da
+MD5sum: d9be71623d0d41f807bb4d91a9b12862
 Description: Companion C++ library for Robot Raconteur
  .
  This package provides development files of robotraconteur-companion.
 
 Package: librobotraconteur-companion0.4
 Source: robotraconteur-companion
-Version: 0.4.3-1~trixie
+Version: 0.4.4-1~trixie
 Architecture: arm64
 Maintainer: John Wason <wason@wasontech.com>
-Installed-Size: 24767
-Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.0), librobotraconteurcore1 (>= 1.2.8), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.8.0+dfsg-7)
+Installed-Size: 24895
+Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.0), librobotraconteurcore1 (>= 1.3.0), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.8.0+dfsg-7)
 Multi-Arch: same
 Homepage: https://github.com/robotraconteur/robotraconteur_companion
 Priority: optional
 Section: contrib/libs
-Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.3-1~trixie_arm64.deb
-Size: 2860100
-SHA256: 729044c5d385f7c474012fa6ea9b3bbd1ed00430e6b6af8723a28ea876aee2a9
-SHA1: 80585076d27f6b238ff29f644e45ada238e54d99
-MD5sum: aa4209bc6fdcc4a87f442ccb60d40314
+Filename: pool/main/r/robotraconteur-companion/librobotraconteur-companion0.4_0.4.4-1~trixie_arm64.deb
+Size: 2873456
+SHA256: e0d7abefc85c204a88a3b8f2352cbf75e461f9c9a75292da7053fbb18484523a
+SHA1: 9bf0f89a44b0c54282fe7f6b93e3a129cd05a331
+MD5sum: ddaf8598a8a2a10fa5d9d1d3887bd9c4
 Description: Companion C++ library for Robot Raconteur
  .
  This package provides run-time library of robotraconteur-companion.
